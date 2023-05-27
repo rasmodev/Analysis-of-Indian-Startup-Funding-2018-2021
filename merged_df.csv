@@ -525,8 +525,8 @@ Year,Company/Brand,HeadQuarter,Sector,Amount($),Stage
 2018,Droni Tech,Mumbai,Information Technology,1350000.0,Seed
 2018,Netmeds,Chennai,"Biotechnology, Health Care, Pharmaceutical",35000000.0,Series C
 2019,Bombay Shaving,Unavailable,Ecommerce,6300000.0,Undisclosed
-2019,Ruangguru,Mumbai,EdTech,150000000.0,Series C
-2019,Eduisfun,Mumbai,EdTech,28000000.0,Undisclosed
+2019,Ruangguru,Mumbai,Edtech,150000000.0,Series C
+2019,Eduisfun,Mumbai,Edtech,28000000.0,Undisclosed
 2019,HomeLane,Chennai,Interior design,30000000.0,Series D
 2019,Nu Genes,Telangana,AgriTech,6000000.0,Undisclosed
 2019,FlytBase,Pune,Technology,6000000.0,Undisclosed
@@ -540,13 +540,13 @@ Year,Company/Brand,HeadQuarter,Sector,Amount($),Stage
 2019,JobSquare,Ahmedabad,HR tech,140500.0,Undisclosed
 2019,Open Secret,Unavailable,Food tech,6000000.0,Undisclosed
 2019,LivFin,Delhi,Fintech,5000000.0,Undisclosed
-2019,Byju's,Unavailable,EdTech,540000000.0,Undisclosed
+2019,Byju's,Unavailable,Edtech,540000000.0,Undisclosed
 2019,Zest Money,Bangalore,Fintech,15000000.0,Series B
-2019,Witblox,Unavailable,EdTech,182700.0,Undisclosed
+2019,Witblox,Unavailable,Edtech,182700.0,Undisclosed
 2019,Azah Personal Care Pvt. Ltd.,Gurugram,Health,6000000.0,Pre-series A
 2019,SalaryFits,Unavailable,Fintech,5000000.0,Undisclosed
 2019,Pristyn Care,Unavailable,Healthcare,12000000.0,Series B
-2019,Springboard,Unavailable,EdTech,11000000.0,Series A
+2019,Springboard,Unavailable,Edtech,11000000.0,Series A
 2019,DROR Labs Pvt. Ltd,Delhi,Safety tech,6000000.0,Undisclosed
 2019,Medlife,Bangalore,Pharmaceutical,15500000.0,Undisclosed
 2019,Seekify,Delhi,SaaS,1500000.0,Seed
@@ -591,11 +591,11 @@ Year,Company/Brand,HeadQuarter,Sector,Amount($),Stage
 2019,Moms Co,New Delhi,E-commerce,5000000.0,Series B
 2019,Cubical Labs,Unavailable,IoT,6000000.0,Series B
 2019,Lawyered,Delhi,Legal tech,100000.0,Undisclosed
-2019,Cuemath,Bangalore,EdTech,5500000.0,Undisclosed
+2019,Cuemath,Bangalore,Edtech,5500000.0,Undisclosed
 2019,Licious,Bangalore,Food,25000000.0,Series D
 2019,Nivesh.com,Noida,Mutual Funds,600000.0,Undisclosed
 2019,Zebu,Unavailable,Cybersecurity,4000000.0,Seed
-2019,Smart Institute,Surat,EdTech,1500000.0,Undisclosed
+2019,Smart Institute,Surat,Edtech,1500000.0,Undisclosed
 2019,CarDekho,Jaipur,Automobile,70000000.0,Series D
 2019,Shadowfax,Bangalore,Logistics,60000000.0,Series D
 2019,Credr,Mumbai,Automobile,6000000.0,Undisclosed
@@ -810,7 +810,7 @@ Year,Company/Brand,HeadQuarter,Sector,Amount($),Stage
 2020,Credable,Mumbai,FinTech,4500000.0,Undisclosed
 2020,Railofy,Mumbai,Transportation,5000000.0,Seed
 2020,Finova Capital,"Jaipur, Rajastan",FinTech,55000000.0,Undisclosed
-2020,Teachmint,Bangalore,EdTech,3500000.0,Seed
+2020,Teachmint,Bangalore,Edtech,3500000.0,Seed
 2020,Peel-Works,Mumbai,E-commerce,3000000.0,Undisclosed
 2020,Janani,Bangalore,Fertility tech,200000.0,Pre-seed
 2020,Credgenics,Gurugram,FinTech,3300000.0,Seed
@@ -825,7 +825,7 @@ Year,Company/Brand,HeadQuarter,Sector,Amount($),Stage
 2020,Jumbotail,Bangalore,Retail,11000000.0,Series B2
 2020,Nykaa,Mumbai,E-commerce,3000000.0,Undisclosed
 2020,TagZ Foods,Bangalore,Food,3000000.0,Undisclosed
-2020,Genius Teacher,Mumbai,EdTech,2000000.0,Undisclosed
+2020,Genius Teacher,Mumbai,Edtech,2000000.0,Undisclosed
 2020,Krimanshi Feeds,Jodhpur,Nutrition sector,500000.0,Undisclosed
 2020,Origo,Gurugram,AgriTech,4000000.0,Debt
 2020,GetVantage,Mumbai,FinTech,5000000.0,Seed
@@ -838,9 +838,9 @@ Year,Company/Brand,HeadQuarter,Sector,Amount($),Stage
 2020,Ketos,"San Francisco, United States",AI startup,18000000.0,Undisclosed
 2020,SUGAR cosmetics,Mumbai,Cosmetics,2000000.0,Debt
 2020,Signzy,Bangalore,FinTech,5400000.0,Undisclosed
-2020,Ahaguru,Chennai,EdTech,3000000.0,Series A
+2020,Ahaguru,Chennai,Edtech,3000000.0,Series A
 2020,Tekion,"San Ramon, California",AI startup,150000000.0,Series C
-2020,Brighteye Ventures,"Paris, Ile-de-France, France",EdTech,5400000.0,Undisclosed
+2020,Brighteye Ventures,"Paris, Ile-de-France, France",Edtech,5400000.0,Undisclosed
 2020,EzeRx,Kolkata,Medtech,200000.0,Seed
 2020,VitalTech,"Plano, Texas, United States",HeathTech,3000000.0,Seed
 2020,Ultraviolette Automotive,Bangalore,Automobiles,4000000.0,Series B
@@ -851,7 +851,7 @@ Year,Company/Brand,HeadQuarter,Sector,Amount($),Stage
 2020,Tiliter,Sydney,Retail,7500000.0,Undisclosed
 2020,Slintel,"San Francisco Bay Area, Silicon Valley, West Coast",Sles and marketing,4200000.0,Undisclosed
 2020,SoOLEGAL,New Delhi,LegalTech,4000000.0,Undisclosed
-2020,HobSpace,Mumbai,EdTech,200000.0,Seed
+2020,HobSpace,Mumbai,Edtech,200000.0,Seed
 2020,Supplynote,Noida,SaaS startup,500000.0,Seed
 2020,Hire Me Car,Noida,Car Service,3000000.0,Seed
 2020,ShopUp,Bangaldesh,E-commerce,22000000.0,Series A
@@ -885,12 +885,12 @@ Year,Company/Brand,HeadQuarter,Sector,Amount($),Stage
 2020,Your MD,"London, England, United Kingdom",Healthcare,25000000.0,Undisclosed
 2020,Antaios,France,Tech company,11000000.0,Undisclosed
 2020,Unnati,Noida,AgriTech,1700000.0,Pre-series A
-2020,Disprz,Chennai,EdTech,1600000.0,Series B
+2020,Disprz,Chennai,Edtech,1600000.0,Series B
 2020,Uni,Mumbai,FinTech,18500000.0,Seed
 2020,Credit Wise Capital,Mumbai,FinTech,6000000.0,Seed
 2020,Chargebee,"San Francisco Bay Area, West Coast, Western US",SaaS startup,55000000.0,Series F
 2020,Reliance Retail Ventures Ltd,Mumbai,Retail,6400000000.0,Undisclosed
-2020,Winuall,Bangalore,EdTech,2000000.0,Undisclosed
+2020,Winuall,Bangalore,Edtech,2000000.0,Undisclosed
 2020,Genrobotics,"Trivandrum, Kerala, India",AI startup,300000.0,Undisclosed
 2020,Livve,Cochin,Rental space,1500000.0,Seed
 2020,Ergos,"Samastipur, Bihar",AgriTech,5000000.0,Series A
@@ -898,7 +898,7 @@ Year,Company/Brand,HeadQuarter,Sector,Amount($),Stage
 2020,PakkaProfile,Bangalore,Recruitment startup,3000000.0,Seed
 2020,Monet Networks,"Irvine, California, United States",AI startup,500000.0,Bridge
 2020,Unocoin,"Tumkur, Karnataka",FinTech,3000000.0,Series A
-2020,Pesto,New Delhi,EdTech,3000000.0,Undisclosed
+2020,Pesto,New Delhi,Edtech,3000000.0,Undisclosed
 2020,NirogStreet,Gurugram,Ayurveda tech,2000000.0,Pre-series A
 2020,Bambrew,Bangalore,Packaging solution startup,3000000.0,Pre-seed
 2020,Omnify,"San Francisco Bay Area, Silicon Valley, West Coast",SaaS startup,3000000.0,Pre-series A
@@ -911,7 +911,7 @@ Year,Company/Brand,HeadQuarter,Sector,Amount($),Stage
 2020,ECOSTP,Bangalore,Sanitation solutions,19000000.0,Undisclosed
 2020,Coralogix,"San Francisco, California, United States",SaaS startup,25000000.0,Series B
 2020,Equiwatt,"Newcastle Upon Tyne, Newcastle upon Tyne, United Kingdom",Tech company,300000.0,Undisclosed
-2020,Zhangmen,"Shanghai, China",EdTech,400000000.0,Undisclosed
+2020,Zhangmen,"Shanghai, China",Edtech,400000000.0,Undisclosed
 2020,AgroWave,Gurugram,AgriTech,500000.0,Undisclosed
 2020,Sapio Analytics,Mumbai,Tech company,150000.0,Undisclosed
 2020,Taimei,"Jiaxing, Zhejiang, China",HealthCare,176000000.0,Undisclosed
@@ -1100,7 +1100,7 @@ Year,Company/Brand,HeadQuarter,Sector,Amount($),Stage
 2020,TrueFan,Mumbai,Media,4300000.0,Seed
 2020,Fanspole,Mumbai,Gaming,3000000.0,Pre-seed
 2020,Byju's,Bangalore,EdTech,122000000.0,Undisclosed
-2020,Avail Finance,Bangalore,FinTech,11635000.0,Series B
+2020,Avail Finance,Bangalore,Fintech,11635000.0,Series B
 2020,The Money Club,Delhi,AI,3000000.0,Undisclosed
 2020,Virohan,Gurgaon,Healthcare/Edtech,2800000.0,Series A
 2020,OneCode,Gurugram,Social Commerce,3000000.0,Seed
@@ -1116,22 +1116,23 @@ Year,Company/Brand,HeadQuarter,Sector,Amount($),Stage
 2020,SmarterBiz,Bangalore,Tech,1065000.0,Pre-series A
 2020,Able Jobs,Bangalore,HR,2000000.0,Undisclosed
 2020,Vieroots,Kochi,Healthtech,3000000.0,Undisclosed
-2020,Stack Finance,Bangalore,FinTech,3000000.0,Seed
+2020,Stack Finance,Bangalore,Fintech,3000000.0,Seed
+2020,FPL Technologies,Pune,Fintech,10000000.0,Series A
 2020,Masai School,Bangalore,EdTech,2500000.0,Series A
 2020,Mitron,Bangalore,Media,5000000.0,Series A
 2020,Daalchini,Unavailable,IoT,669000.0,Pre-series A
 2020,Suno India,Unavailable,Media,3000000.0,Angel
-2020,LendingKart,Ahmedabad,FinTech,16076000.0,Series D
+2020,LendingKart,Ahmedabad,Fintech,16076000.0,Series D
 2020,Text Mercato,Bangalore,Unknown,649600.0,Series A
 2020,Eden Smart Homes,Unavailable,IoT,3000000.0,Undisclosed
 2020,GrayQuest,Mumbai,EdTech,1000000.0,Pre-series A
 2020,BigHaat,Bangalore,Agritech,2000000.0,Pre-series A
-2020,CityCash,Mumbai,FinTech,1000000.0,Seed
+2020,CityCash,Mumbai,Fintech,1000000.0,Seed
 2020,HomeLane,Chennai,Interior design,1000000.0,Series D
 2020,HungerBox,Bangalore,Foodtech,6700000.0,Series C
 2020,DaveAI,Bangalore,AI,3000000.0,Undisclosed
-2020,Eduvanz,Mumbai,FinTech,5000000.0,Series A
-2020,ZipLoan,Delhi,FinTech,2000000.0,Undisclosed
+2020,Eduvanz,Mumbai,Fintech,5000000.0,Series A
+2020,ZipLoan,Delhi,Fintech,2000000.0,Undisclosed
 2020,DocSumo,Mumbai,AI,220000.0,Seed
 2020,CUSMAT,Warangal,AR/VR,3000000.0,Undisclosed
 2020,Chingari,Bangalore,Media,1300000.0,Seed
@@ -1153,35 +1154,35 @@ Year,Company/Brand,HeadQuarter,Sector,Amount($),Stage
 2020,VilCart,Bangalore,Ecommerce,3000000.0,Bridge
 2020,Firescore,Mumbai,Gaming,500000.0,Undisclosed
 2020,BulBul,Gurgaon,Social commerce,8700000.0,Undisclosed
-2020,Toppr,Mumbai,EdTech,46761000.0,Series D
-2020,Pickright Technologies,Bangalore,FinTech,175000.0,Seed
+2020,Toppr,Mumbai,Edtech,46761000.0,Series D
+2020,Pickright Technologies,Bangalore,Fintech,175000.0,Seed
 2020,Muse Wearables,Chennai,Tech,3000000.0,Undisclosed
-2020,SATYA Microcapital,Delhi,FinTech,9.6,Undisclosed
+2020,SATYA Microcapital,Delhi,Fintech,9.6,Undisclosed
 2020,WYN Studio,Gurugram,Media,3000000.0,Seed
 2020,Fourth Partner Energy,Bangalore,Solar Solution,15000000.0,Undisclosed
-2020,Entri,Kochi,EdTech,1700000.0,Pre-series A
+2020,Entri,Kochi,Edtech,1700000.0,Pre-series A
 2020,Snack Amor,Mumbai,Foodtech,3000000.0,Undisclosed
 2020,MPowered,Gurugram,SaaS,21000000.0,Pre-series A
 2020,Leap Club,Gurugram,Social e-commerce,3000000.0,Undisclosed
 2020,Ather Energy,Bangalore,Automobile,11241000.0,Series C
 2020,Gigforce,Bangalore,HR tech,804000.0,Undisclosed
 2020,Vegrow,Bangalore,Agritech,2500000.0,Seed
-2020,Finn,Bangalore,FinTech,3000000.0,Pre-series A
+2020,Finn,Bangalore,Fintech,3000000.0,Pre-series A
 2020,Bijnis,Unavailable,B2B marketplace,10000000.0,Series A
-2020,iNurture,Bangalore,EdTech,1340000.0,Undisclosed
+2020,iNurture,Bangalore,Edtech,1340000.0,Undisclosed
 2020,StyleDotMe,Gurugram,Fashion Tech,467000.0,Pre-series A
 2020,Ripsey,Mumbai,Nutrition tech,133000.0,Undisclosed
 2020,ThriveFNC,Pune,Health & Wellness,3000000.0,Seed
-2020,Vedantu,Bangalore,EdTech,100000000.0,Series D
+2020,Vedantu,Bangalore,Edtech,100000000.0,Series D
 2020,Magicpin,Gurugram,Unknown,7000000.0,Series D
 2020,Procol,Delhi,Agritech,3823000.0,Undisclosed
 2020,Yumlane,Mumbai,Cloud Kitchen,1000000.0,Pre-series A
-2020,Crio,Bangalore,EdTech,934000.0,Undisclosed
+2020,Crio,Bangalore,Edtech,934000.0,Undisclosed
 2020,Openapp,Bangalore,IoT,500000.0,Undisclosed
 2020,PumPumPum,Gurugram,IoT/Automobile,293000.0,Undisclosed
-2020,uFony Services Pvt ltd,Pune,EdTech,3000000.0,Undisclosed
+2020,uFony Services Pvt ltd,Pune,Edtech,3000000.0,Undisclosed
 2020,Protinus Fashion Networking Pvt Ltd,Mumbai,Fashion,3000000.0,Pre-series A
-2020,Uable,Bangalore,EdTech,3000000.0,Seed
+2020,Uable,Bangalore,Edtech,3000000.0,Seed
 2020,ParkSmart,Delhi,IoT,198000.0,Undisclosed
 2020,Plum,Bangalore,Healthtech,927000.0,Seed
 2020,IncNut Digital,Hyderabad,Ecommerce,4000000.0,Series A
@@ -1190,20 +1191,20 @@ Year,Company/Brand,HeadQuarter,Sector,Amount($),Stage
 2020,Piggy Ride,Bangalore,SaaS,1862000.0,Pre-series A
 2020,Chai Waale,Chennai,Beverage,232000.0,Undisclosed
 2020,NOTO,Mumbai,Food,3000000.0,Pre-seed
-2020,Cuemath,Bangalore,EdTech,2888000.0,Series B
+2020,Cuemath,Bangalore,Edtech,2888000.0,Series B
 2020,Cars24,Gurgaon,Automobile,1328000.0,Undisclosed
 2020,JetSynthesys,Pune,Digital tech,40000000.0,Undisclosed
 2020,Earth Energy EV,Mumbai,Automobile,3000000.0,Seed
 2020,Green Cure,Delhi,Health & Wellness,3000000.0,Undisclosed
 2020,Blue Sky Analytics,Gurugram,Data Intelligence,1200000.0,Seed
-2020,Edhusk,Jaipur,EdTech,3000000.0,Undisclosed
-2020,Decentro,Bangalore,FinTech,15500000.0,Series A
+2020,Edhusk,Jaipur,Edtech,3000000.0,Undisclosed
+2020,Decentro,Bangalore,Fintech,15500000.0,Series A
 2020,Zolostays,Bangalore,Co-living,56000000.0,Series C
 2020,Frontier Markets,Jaipur,Ecommerce,2250000.0,Pre-series A
 2020,Brainwired,Kerala,Agritech,3000000.0,Undisclosed
-2020,Aye Finance,Gurugram,FinTech,16753000.0,Series E
+2020,Aye Finance,Gurugram,Fintech,16753000.0,Series E
 2020,Paper Boat,Gurugram,Food & Beverages,3700000.0,Undisclosed
-2020,Ken42,Bangalore,EdTech,1470000.0,Undisclosed
+2020,Ken42,Bangalore,Edtech,1470000.0,Undisclosed
 2020,Forbidden Foods,Delhi,Food,1000000.0,Seed
 2020,Universal Sportsbiz,Bangalore,Fashion,530000.0,Undisclosed
 2020,Gobbly,Gurugram,Retail Tech,500000.0,Seed
@@ -1212,22 +1213,22 @@ Year,Company/Brand,HeadQuarter,Sector,Amount($),Stage
 2020,Bulk MRO,Mumbai,B2B,3344000.0,Undisclosed
 2020,Inspektlabs,Delhi,AI,600000.0,Pre-series A
 2020,Big Bang Boom Solutions,Chennai,Defense tech,1000000.0,Series A
-2020,Flinto,Chennai,EdTech,7200000.0,Series B
+2020,Flinto,Chennai,Edtech,7200000.0,Series B
 2020,Zetwerk,Bangalore,Marketplace,21000000.0,Series C
-2020,ChitMonks,Hyderabad,FinTech,650000.0,Pre-series A
-2020,Walrus,Bangalore,FinTech,3000000.0,Pre-seed
+2020,ChitMonks,Hyderabad,Fintech,650000.0,Pre-series A
+2020,Walrus,Bangalore,Fintech,3000000.0,Pre-seed
 2020,Arth Designbuild,Hyderebad,Construction tech,1100000.0,Undisclosed
-2020,goDutch,Mumbai,FinTech,1700000.0,Seed
+2020,goDutch,Mumbai,Fintech,1700000.0,Seed
 2020,Rusk Media,Delhi,Digital Media,3000000.0,Seed
 2020,Bold Care,Mumbai,Health & Wellness,3000000.0,Pre-seed
 2020,Samosa Party,Bangalore,Food,3000000.0,Undisclosed
 2020,High Street Essentials,New Delhi,Ecommerce,2743000.0,Series C
-2020,Byju's,Bangalore,EdTech,3000000.0,Undisclosed
-2020,Slice,Bangalore,FinTech,6082000.0,Series B
+2020,Byju's,Bangalore,Edtech,3000000.0,Undisclosed
+2020,Slice,Bangalore,Fintech,6082000.0,Series B
 2020,Bombay Play,Bangalore,Gaming,1500000.0,Pre-series A
 2020,Fullife,Mumbai,Healthtech,6609000.0,Undisclosed
 2020,Oziva,Unavailable,Nutrition,5000000.0,Series A
-2020,Aye Finance,Gurugram,FinTech,27700000.0,Series E
+2020,Aye Finance,Gurugram,Fintech,27700000.0,Series E
 2020,Aether Biomedical,Delhi,Medtech,3000000.0,Seed
 2020,91springboard,Delhi,Coworking,5940000.0,Undisclosed
 2020,Yulu,Unavailable,Micro-mobiity,3964000.0,Undisclosed
@@ -1237,17 +1238,17 @@ Year,Company/Brand,HeadQuarter,Sector,Amount($),Stage
 2020,Milk Mantra,Odisha,Food,10000000.0,Undisclosed
 2020,Myglamm,Mumbai,Beauty,4327000.0,Undisclosed
 2020,Drishti Technologies,Bangalore,AI,25000000.0,Series B
-2020,Instasolv,Noida,EdTech,2000000.0,Pre-series A
-2020,GoldenPi,Bangalore,FinTech,459000.0,Undisclosed
+2020,Instasolv,Noida,Edtech,2000000.0,Pre-series A
+2020,GoldenPi,Bangalore,Fintech,459000.0,Undisclosed
 2020,Peppermint,Unavailable,Robotics,3000000.0,Seed
 2020,Sarva,Mumbai,Yoga & wellness,3000000.0,Undisclosed
-2020,Jai Kisan,Mumbai,FinTech,3937000.0,Pre-series A
+2020,Jai Kisan,Mumbai,Fintech,3937000.0,Pre-series A
 2020,Agro2o,New Delhi,Agritech,3000000.0,Undisclosed
 2020,LetsTransport,Bangalore,Logitech,1313500.0,Undisclosed
 2020,GabbarDeals,Pune,Ecommerce,3000000.0,Undisclosed
 2020,Crimson Healthcare,Delhi,Med Tech,229800.0,Undisclosed
 2020,Biomoneta,Bangalore,Life sciences,3000000.0,Seed
-2020,Edvizo,Bangalore,EdTech,150000.0,Seed
+2020,Edvizo,Bangalore,Edtech,150000.0,Seed
 2020,Servify,Mumbai,SaaS,11370000.0,Series C
 2020,Drum Food,Mumbai,Food,5305000.0,Undisclosed
 2020,Innoviti,Bangalore,SaaS,3000000.0,Series C
@@ -1261,13 +1262,13 @@ Year,Company/Brand,HeadQuarter,Sector,Amount($),Stage
 2020,MyKaam,Bangalore,HrTech,3000000.0,Undisclosed
 2020,HealthPlix,Bangalore,Healthtech,6000000.0,Series B
 2020,YoloBus,Gurugram,Mobility/Transport,3300000.0,Series A
-2020,iNurture Education,Unavailable,EdTech,4000000.0,Undisclosed
+2020,iNurture Education,Unavailable,Edtech,4000000.0,Undisclosed
 2020,Pocket52,Bangalore,Gaming,1750000.0,Series A
 2020,QuaQua,Hyderabad,Travel,1000000.0,Undisclosed
 2020,Crofarm,Delhi,Agritech,1000000.0,Undisclosed
 2020,Timios,Bangalore,Foodtech,3000000.0,Pre-series A
 2020,Wooden Street,Jaipur,Ecommerce,3000000.0,Series A
-2020,BankBazaar,Chennai,FinTech,5967000.0,Series D
+2020,BankBazaar,Chennai,Fintech,5967000.0,Series D
 2020,Rentmojo,Bangalore,Rental,2980000.0,Undisclosed
 2020,Credgencies,Unavailable,AI & Debt,3000000.0,Seed
 2020,Knorish,Delhi,SaaS/Edtech,323000.0,Pre-series A
@@ -1277,36 +1278,36 @@ Year,Company/Brand,HeadQuarter,Sector,Amount($),Stage
 2020,Cube Wealth,Mumbai,SaaS,500000.0,Undisclosed
 2020,IVF Access,Bangalore,Healthtech,5000000.0,Series A
 2020,Hoi Foods,Delhi,Foodtech,2000000.0,Pre-series A
-2020,Ola Financial Services,Bangalore,FinTech,27000000.0,Series A
+2020,Ola Financial Services,Bangalore,Fintech,27000000.0,Series A
 2020,Awifs,Delhi,Co-working,5200000.0,Undisclosed
 2020,Dunzo,Bangalore,Logistics,55000000.0,Undisclosed
-2020,Swiflearn,Gurugram,EdTech,3000000.0,Seed
+2020,Swiflearn,Gurugram,Edtech,3000000.0,Seed
 2020,Remedo,Delhi,Healthtech,3000000.0,Pre-series A
 2020,Blowhorn,Bangalore,Logistics,3000000.0,Undisclosed
 2020,Toch,Mumbai,AI,1000000.0,Pre-series A
 2020,Gram Cover,Noida,Insurtech,3000000.0,Pre-series A
 2020,Coin DCX,Mumbai,Cryptocurrency,2500000.0,Undisclosed
-2020,HomeCapital,Mumbai,FinTech,3000000.0,Undisclosed
+2020,HomeCapital,Mumbai,Fintech,3000000.0,Undisclosed
 2020,Euler Motors,Delhi,Automotive tech,2530000.0,Series A
 2020,Riskcovry,Mumbai,Insurtech,3000000.0,Pre-series A
 2020,NWNT (No Worry No Tension Healthcare),Delhi,Healthtech,3000000.0,Pre-series A
 2020,Voicezen,Gurugram,AI,3000000.0,Undisclosed
 2020,Leap Club,Gurugram,Unknown,340000.0,Pre-seed
-2020,Credit Mantri,Chennai,FinTech,792000.0,Undisclosed
-2020,Xtracap,Gurugram,FinTech,1000000.0,Undisclosed
+2020,Credit Mantri,Chennai,Fintech,792000.0,Undisclosed
+2020,Xtracap,Gurugram,Fintech,1000000.0,Undisclosed
 2020,Tring,Mumbai,Media,3000000.0,Undisclosed
 2020,Vakilsearch,Chennai,Legal,3000000.0,Undisclosed
-2020,Khatabook,Bangalore,FinTech,60000000.0,Series B
-2020,LendingKart,Ahmedabad,FinTech,11363000.0,Series D
-2020,Illumnus,Unavailable,EdTech,100000.0,Seed
+2020,Khatabook,Bangalore,Fintech,60000000.0,Series B
+2020,LendingKart,Ahmedabad,Fintech,11363000.0,Series D
+2020,Illumnus,Unavailable,Edtech,100000.0,Seed
 2020,LetsTransport,Bangalore,Logitech,1715000.0,Undisclosed
 2020,Eggoz,Bihar,Agritech,329000.0,Seed
-2020,Winuall,Bangalore,EdTech,3000000.0,Undisclosed
-2020,Indian School Finance Company,Hyderabad,FinTech,5271000.0,Seed
+2020,Winuall,Bangalore,Edtech,3000000.0,Undisclosed
+2020,Indian School Finance Company,Hyderabad,Fintech,5271000.0,Seed
 2020,Juicy Chemistry,Unavailable,Unknown,650000.0,Series A
 2020,DeepTek,Pune,Healthtech,3000000.0,Undisclosed
 2020,Stepathlon Lifestyle,Mumbai,Fitness,3000000.0,Undisclosed
-2020,Sindhuja Microcredit,Noida,FinTech,8700000.0,Undisclosed
+2020,Sindhuja Microcredit,Noida,Fintech,8700000.0,Undisclosed
 2020,Rentmojo,Bangalore,Rental,3226000.0,Undisclosed
 2020,Tesco Charge Zone,Gujarat,EV,3000000.0,Undisclosed
 2020,Intello Labs,Gurugram,"Supply chain, Agritech",5900000.0,Series A
@@ -1320,13 +1321,13 @@ Year,Company/Brand,HeadQuarter,Sector,Amount($),Stage
 2020,Docsapp,Bangalore,Healthtech,9500000.0,Undisclosed
 2020,Phable,Unavailable,Healthtech,1000000.0,Pre-series A
 2020,Generic Aadhaar,Unavailable,Pharma,3000000.0,Undisclosed
-2020,Nium,Unavailable,FinTech,3000000.0,Undisclosed
-2020,Mintoak,Mumbai,FinTech,2000000.0,Pre-series A
+2020,Nium,Unavailable,Fintech,3000000.0,Undisclosed
+2020,Mintoak,Mumbai,Fintech,2000000.0,Pre-series A
 2020,VestSpace,Pune,Spacetech,10000000.0,Undisclosed
 2020,Blackbuck,Bangalore,Logistics,3000000.0,Undisclosed
 2020,Vernacular ai,Bangalore,AI,5100000.0,Series A
 2020,Clover,Bangalore,Agritech,920000.0,Undisclosed
-2020,Varthana,Bangalore,FinTech,15000000.0,Series D
+2020,Varthana,Bangalore,Fintech,15000000.0,Series D
 2020,Codeninja,Bangalore,SaaS,3000000.0,Seed
 2020,MetaMerphoSys,Pune,Insurance technology,3000000.0,Pre-series A
 2020,Rooter,Delhi,Gaming,1700000.0,Pre-series A
@@ -1341,26 +1342,26 @@ Year,Company/Brand,HeadQuarter,Sector,Amount($),Stage
 2020,Remedo,Noida,Healthtech,3000000.0,Pre-series A
 2020,News Reach,Ahmedabad,Media,3000000.0,Undisclosed
 2020,RoomSoom,Noida,Housing,3000000.0,Undisclosed
-2020,Pedagogy,Unavailable,EdTech,400000.0,Undisclosed
-2020,Classplus,Delhi,EdTech,8200000.0,Series B
+2020,Pedagogy,Unavailable,Edtech,400000.0,Undisclosed
+2020,Classplus,Delhi,Edtech,8200000.0,Series B
 2020,Medlife,Bangalore,Pharmaceutical,15500000.0,Undisclosed
-2020,Qin1,Noida,EdTech,3000000.0,Undisclosed
+2020,Qin1,Noida,Edtech,3000000.0,Undisclosed
 2020,MYSUN,Delhi,Tech,4257000.0,Pre-series A
 2020,ShopX,Bangalore,Ecommerce,1410000.0,Undisclosed
 2020,Sarva,Unavailable,Yoga & wellness,3000000.0,Undisclosed
 2020,Expertrons,Mumbai,AI,3000000.0,Seed
 2020,NewsBytes,Gurugram,Digital Media,1500000.0,Series A
 2020,Wagonfly,Bangalore,Unknown,500000.0,Undisclosed
-2020,NIRA,Unavailable,FinTech,2100000.0,Pre-series A
+2020,NIRA,Unavailable,Fintech,2100000.0,Pre-series A
 2020,Convosight,Hyderabad,Data Analytics,4000000.0,Pre-series A
 2020,Fittr,Pune,Fitness,2000000.0,Undisclosed
 2020,AsknBid,Bangalore,Investment Tech,3000000.0,Undisclosed
 2020,Bira91,Bangalore,Beverage,20000000.0,Series C
-2020,Finaureus Technologies,Pune,FinTech,3000000.0,Pre-series A
+2020,Finaureus Technologies,Pune,Fintech,3000000.0,Pre-series A
 2020,Daily Ninja,Haryana,Ecommerce,349800.0,Undisclosed
-2020,Guvi Geek Network Pvt Ltd,Chennai,EdTech,786000.0,Pre-series A
+2020,Guvi Geek Network Pvt Ltd,Chennai,Edtech,786000.0,Pre-series A
 2020,LoadShare,Bangalore,Logistics,2004000.0,Series B
-2020,Vedantu,Bangalore,EdTech,6800000.0,Series C
+2020,Vedantu,Bangalore,Edtech,6800000.0,Series C
 2020,Indusface,Unavailable,IT,5000000.0,Undisclosed
 2020,DMI Group,Delhi,Financial Services,123000000.0,Undisclosed
 2020,Spintly,Goa,IoT,248000.0,Pre-series A
@@ -1368,14 +1369,14 @@ Year,Company/Brand,HeadQuarter,Sector,Amount($),Stage
 2020,Bijak,Gurugram,Agritech,12000000.0,Series A
 2020,Bugworks,Bangalore,Biopharma,7500000.0,Undisclosed
 2020,DrinkPrime,Bangalore,Unknown,3000000.0,Seed
-2020,Yap,Chennai,FinTech,4500000.0,Series A
+2020,Yap,Chennai,Fintech,4500000.0,Series A
 2020,UzhavarBumi,Tamil Nadu,Dairy,3000000.0,Undisclosed
 2020,Tattva,Delhi,Beauty & wellness,150000.0,Undisclosed
-2020,Pariksha,Pune,EdTech,3000000.0,Pre-series A
+2020,Pariksha,Pune,Edtech,3000000.0,Pre-series A
 2020,DailyHunt,Unavailable,Media,24000000.0,Undisclosed
 2020,NoBroker,Bangalore,Real Estate,30000000.0,Undisclosed
 2020,Box8,Mumbai,Foodtech,4000000.0,Undisclosed
-2020,Capital Float,Bangalore,FinTech,15000000.0,Undisclosed
+2020,Capital Float,Bangalore,Fintech,15000000.0,Undisclosed
 2020,ITILITE,Bangalore,Travel & SaaS,13000000.0,Series B
 2020,Morning Context,Unavailable,Digital Media,3000000.0,Seed
 2020,Aavenir,Ahmedabad,SaaS,2000000.0,Seed
@@ -1384,89 +1385,90 @@ Year,Company/Brand,HeadQuarter,Sector,Amount($),Stage
 2020,Yellow Messenger,Bangalore,AI,20000000.0,Series B
 2020,Toch,Unavailable,Media Tech,400000.0,Undisclosed
 2020,Ewar,Bangalore,Gaming,200000.0,Undisclosed
-2020,Setu,Unavailable,FinTech,14259000.0,Series A
+2020,Setu,Unavailable,Fintech,14259000.0,Series A
 2020,Wellthy Therapeutics,Bangalore,Healthtech,4000000.0,Pre-series A
 2020,Power Gummies,Delhi,Health,3000000.0,Undisclosed
 2020,Locale ai,Bangalore,Location Analytics,3000000.0,Undisclosed
 2020,FarEye,Delhi,Logistics,24500000.0,Series D
 2020,Rebel Foods,Unavailable,Food tech,50000000.0,Undisclosed
-2020,BankBazaar,Chennai,FinTech,3800000.0,Series D
+2020,BankBazaar,Chennai,Fintech,3800000.0,Series D
 2020,Porter,Mumbai,Logistics,18370000.0,Series D
 2020,SugarBox,Mumbai,Tech,68525000.0,Undisclosed
-2020,Capital Float,Bangalore,FinTech,4800000.0,Series F
+2020,Capital Float,Bangalore,Fintech,4800000.0,Series F
 2020,Big Basket,Bangalore,E store,60000000.0,Undisclosed
-2020,Amica,Unavailable,FinTech,2000000.0,Undisclosed
-2020,Vedantu,Bangalore,EdTech,12500000.0,Series C
+2020,Amica,Unavailable,Fintech,2000000.0,Undisclosed
+2020,Vedantu,Bangalore,Edtech,12500000.0,Series C
 2020,Fingerlix,Unavailable,Food,1834000.0,Undisclosed
 2020,Plop,Mumbai,Tech,3000000.0,Angel
 2020,Zupee,Unavailable,Gaming,8000000.0,Series A
 2020,DeHaat,Unavailable,Agritech,12000000.0,Series A
-2020,Aye Finance,Gurugram,FinTech,23850000.0,Undisclosed
+2020,Lido Learning,Mumbai,Edtech,7500000.0,Series B
+2020,Aye Finance,Gurugram,Fintech,23850000.0,Undisclosed
 2020,Swiggy,Bangalore,Foodtech,43000000.0,Series A
 2020,Akna Medical,Unavailable,Healthtech,7000000.0,Undisclosed
 2020,Zomato,Gurugram,Foodtech,5000000.0,Undisclosed
 2020,RaRa Delivery,Unavailable,Logistics,800000.0,Seed
-2020,JusPay,Bangalore,FinTech,21600000.0,Series B
+2020,JusPay,Bangalore,Fintech,21600000.0,Series B
 2020,Obviously AI,Unavailable,Data Science,3000000.0,Undisclosed
-2020,Fingpay,Mumbai,FinTech,3500000.0,Series A
+2020,Fingpay,Mumbai,Fintech,3500000.0,Series A
 2020,Recko,Bangalore,SaaS,6000000.0,Series A
 2020,Furlenco,Bangalore,Ecommerce,10000000.0,Undisclosed
-2020,Mera Cashier,Noida,FinTech,150000.0,Undisclosed
+2020,Mera Cashier,Noida,Fintech,150000.0,Undisclosed
 2020,Kitchens Centre,Delhi,Unknown,500000.0,Seed
-2020,Camp K12,Gurugram,EdTech,4000000.0,Seed
+2020,Camp K12,Gurugram,Edtech,4000000.0,Seed
 2020,MedGenome,Bangalore,Healthtech,55000000.0,Series D
 2020,Ergos,Bangalore,Agritech,4598000.0,Undisclosed
 2020,Nykaa,Mumbai,Ecommerce,13137000.0,Undisclosed
 2020,Samadhan,Delhi,Insurance,3000000.0,Seed
 2020,SaScan,Bangalore,Healthcare,3000000.0,Undisclosed
-2020,Lido Learning,Mumbai,EdTech,3000000.0,Undisclosed
+2020,Lido Learning,Mumbai,Edtech,3000000.0,Undisclosed
 2020,CureFit,Bangalore,Health and Fitness,115000000.0,Series D
 2020,Nimesa,Bangalore,SaaS,3000000.0,Undisclosed
 2020,Design X,Noida,IoT,200000.0,Seed
 2020,Driftly Electric,Bangalore,Automobile,3000000.0,Undisclosed
 2020,Imstrong,Bangalore,Fitness,400000.0,Seed
 2020,Craftsvilla,Mumbai,Marketplace,3900000.0,Undisclosed
-2020,Rupifi,Bangalore,FinTech,3000000.0,Pre-seed
+2020,Rupifi,Bangalore,Fintech,3000000.0,Pre-seed
 2020,SnackAmor,Mumbai,Food,3000000.0,Seed
 2020,Zealthy,Bangalore,Healthtech,3000000.0,Seed
-2020,CoinDCX,Unavailable,FinTech,3000000.0,Series A
+2020,CoinDCX,Unavailable,Fintech,3000000.0,Series A
 2020,NuNu TV,Unavailable,Media,670000.0,Undisclosed
 2020,QTalk,Bangalore,Technology,1600000.0,Seed
 2020,Shadez,Mumbai,Interior & decor,100000.0,Seed
 2020,Excess2Sell,Mumbai,Ecommerce,1000000.0,Undisclosed
 2020,Stanplus,Hyderabad,Healthtech,1500000.0,Pre-series A
 2020,Pitstop,Bangalore,Automobile,2500000.0,Series A
-2020,Univariety,Hyderabad,EdTech,1100000.0,Undisclosed
+2020,Univariety,Hyderabad,Edtech,1100000.0,Undisclosed
 2020,Peel Works,Mumbai,SaaS,42.23,Undisclosed
 2020,CoreStack,Chennai,Technology,8500000.0,Series A
-2020,Vivriti Capital,Chennai,FinTech,50000000.0,Series B
+2020,Vivriti Capital,Chennai,Fintech,50000000.0,Series B
 2020,Agnikul,Chennai,Spacetech,3148000.0,Pre-series A
-2020,Fintso,Unavailable,FinTech,2600000.0,Undisclosed
-2020,Khatabook,Bangalore,FinTech,3000000.0,Undisclosed
-2020,Smart Coin,Unavailable,FinTech,7000000.0,Series A
+2020,Fintso,Unavailable,Fintech,2600000.0,Undisclosed
+2020,Khatabook,Bangalore,Fintech,3000000.0,Undisclosed
+2020,Smart Coin,Unavailable,Fintech,7000000.0,Series A
 2020,ZunRoof,Gurugram,Cleantech,3000000.0,Series A
 2020,Shop101,Unavailable,Social e-commerce,3900000.0,Series C
 2020,OM Bhakti,Bangalore,FMCG,3000000.0,Seed
 2020,Lal10,Uttar Pradesh,B2B,1100000.0,Undisclosed
 2020,Anaxee Digital Runner,Indore,Tech,3000000.0,Undisclosed
-2020,CollegeKhabri,Bhopal,EdTech,3000000.0,Undisclosed
+2020,CollegeKhabri,Bhopal,Edtech,3000000.0,Undisclosed
 2020,Ola Electric,Bangalore,eMobility,1000000.0,Undisclosed
 2020,Multi Living,Mumbai,Real Estate,6000000.0,Undisclosed
-2020,FamPay,Bangalore,FinTech,4700000.0,Seed
+2020,FamPay,Bangalore,Fintech,4700000.0,Seed
 2020,UnboxRobotics Labs,Bangalore,Automation tech,500000.0,Seed
-2020,Karbon Card,Bangalore,FinTech,2000000.0,Seed
+2020,Karbon Card,Bangalore,Fintech,2000000.0,Seed
 2020,Airmeet,Bangalore,Media & Networking,3000000.0,Undisclosed
 2020,Innerchef,Gurgaon,Foodtech,1000000.0,Undisclosed
 2020,Epigamia,Mumbai,FMCG,2558000.0,Series C
 2020,StyleNook,Mumbai,Ecommerce,3000000.0,Undisclosed
-2020,Callido Learning,Mumbai,EdTech,3000000.0,Undisclosed
+2020,Callido Learning,Mumbai,Edtech,3000000.0,Undisclosed
 2020,Soxytoes,Delhi,Ecommerce,3000000.0,Undisclosed
 2020,F5,Delhi,E-market,3000000.0,Seed
 2020,Paper Boat,Bangalore,Food & Beverages,4049500.0,Undisclosed
 2020,Strata,Bangalore,Proptech,1500000.0,Seed
 2020,Salesken,Bangalore,AI & Data science,8000000.0,Series A
 2020,Arya,Noida,Agritech,6000000.0,Series B
-2020,Leap Finance,Bangalore,FinTech,5500000.0,Undisclosed
+2020,Leap Finance,Bangalore,Fintech,5500000.0,Undisclosed
 2020,Sleepy Owl,Delhi,Beverages,3000000.0,Undisclosed
 2020,Tricog,Bangalore,Healthtech,10500000.0,Series B
 2020,GogoBus,Delhi,Travel tech,3000000.0,Undisclosed
@@ -1474,34 +1476,34 @@ Year,Company/Brand,HeadQuarter,Sector,Amount($),Stage
 2020,Spaciya Consultants,Noida,Real Estate,500000.0,Pre-series A
 2020,Bounce,Bangalore,Automotive and Rentals,6500000.0,Undisclosed
 2020,Neeman,Unavailable,Ecommerce,1000000.0,Pre-series A
-2020,Chqbook,Gurugram,FinTech,5000000.0,Series A
-2020,SMEcorner,Mumbai,FinTech,30000000.0,Series B
-2020,Oda Class,Bangalore,EdTech,3000000.0,Pre-series A
+2020,Chqbook,Gurugram,Fintech,5000000.0,Series A
+2020,SMEcorner,Mumbai,Fintech,30000000.0,Series B
+2020,Oda Class,Bangalore,Edtech,3000000.0,Pre-series A
 2020,Spinny,Haryana,E-tail,43700000.0,Series B
 2020,goStops,Delhi,Accomodation,3000000.0,Undisclosed
-2020,Umeed Housing,Haryana,FinTech,23000000.0,Series D
+2020,Umeed Housing,Haryana,Fintech,23000000.0,Series D
 2020,Vogo,Bangalore,Automotive,20000000.0,Series C
 2020,Flick Stree,Mumbai,AI & Media,3000000.0,Series A
 2020,Qure ai,Mumbai,Healthtech,16000000.0,Undisclosed
 2020,MinionLabs,Bangalore,Machine Learning,3000000.0,Undisclosed
 2020,Josh Talks,Haryana,Media,1500000.0,Pre-series A
-2020,PhoneParLoan,Delhi,FinTech,3000000.0,Undisclosed
+2020,PhoneParLoan,Delhi,Fintech,3000000.0,Undisclosed
 2020,RailYatri,Noida,Travel,13800000.0,Undisclosed
 2020,AjnaLens,Thane,Deeptech,1500000.0,Pre-series A
 2020,Pepper,Mumbai,Content Marktplace,306900.0,Seed
-2020,Rupeek,Bangalore,FinTech,30000000.0,Undisclosed
+2020,Rupeek,Bangalore,Fintech,30000000.0,Undisclosed
 2020,iMerit,Kolkata,IT,20000000.0,Series B
-2020,BharatPe,Delhi,FinTech,75000000.0,Series C
+2020,BharatPe,Delhi,Fintech,75000000.0,Series C
 2020,Invideo,Unavailable,Visual Media,2500000.0,Undisclosed
-2020,AvalonMeta,Unavailable,EdTech,420000.0,Undisclosed
+2020,AvalonMeta,Unavailable,Edtech,420000.0,Undisclosed
 2020,Near Store,Mumbai,Ecommerce,300000.0,Seed
 2020,ElecTorq,Delhi,Automobile,3000000.0,Undisclosed
-2020,Prayaan Capital,Chennai,FinTech,1200000.0,Seed
+2020,Prayaan Capital,Chennai,Fintech,1200000.0,Seed
 2020,Sanfe,Delhi,Hygiene,1100000.0,Pre-series A
 2020,Go Desi,Delhi,Foodtech,627300.0,Seed
 2020,Swiggy,Bangalore,Foodtech,113000000.0,Series A
 2020,Whatfix,Banglore,SaaS,32000000.0,Series C
-2020,Unacademy,Bangalore,EdTech,110000000.0,Series E
+2020,Unacademy,Bangalore,Edtech,110000000.0,Series E
 2020,Zvesta,Gurugram,Proptech,5500000.0,Undisclosed
 2020,Dunzo,Bangalore,Logistics,11000000.0,Undisclosed
 2020,Digit Insurance,Bangalore,Insurtech,340000.0,Undisclosed
@@ -1510,83 +1512,84 @@ Year,Company/Brand,HeadQuarter,Sector,Amount($),Stage
 2020,MaxWholesale,Delhi,Ecommerce,3000000.0,Series A
 2020,Carbon Clean,Unavailable,Cleantech,16000000.0,Undisclosed
 2020,Onsitego,Unavailable,Sales & Services,19000000.0,Series B
-2020,Genius Corner,Noida,EdTech,250000.0,Undisclosed
-2020,PlanetSpark,Gurugram,EdTech,448500.0,Undisclosed
+2020,Genius Corner,Noida,Edtech,250000.0,Undisclosed
+2020,PlanetSpark,Gurugram,Edtech,448500.0,Undisclosed
 2020,CamCom,Bangalore,AI & Deep learning,3000000.0,Undisclosed
 2020,Simsim,Bangalore,Social Commerce,8000000.0,Series B
 2020,Shuttl,Delhi,Transport,7975700.0,Series C
 2020,HooLiv,Delhi,Housing & Rentals,3000000.0,Undisclosed
-2020,ClassMonitor,Indore,EdTech,3000000.0,Undisclosed
+2020,ClassMonitor,Indore,Edtech,3000000.0,Undisclosed
 2020,Friyey,Pune,Co-working,3000000.0,Undisclosed
 2020,Oga,Bangalore,Fitness,330000.0,Undisclosed
 2020,Big Basket,Bangalore,Estore,3500000.0,Undisclosed
 2020,CYFIRMA,Bangalore,SaaS,3000000.0,Series A
 2020,Innoviti,Bangalore,Unknown,5000000.0,Undisclosed
-2020,Paytm money,Bangalore,FinTech,5600000.0,Undisclosed
-2020,Vedantu,Bangalore,EdTech,24000000.0,Series C
-2020,Yap,Chennai,FinTech,1402000.0,Undisclosed
+2020,Paytm money,Bangalore,Fintech,5600000.0,Undisclosed
+2020,Vedantu,Bangalore,Edtech,24000000.0,Series C
+2020,Yap,Chennai,Fintech,1402000.0,Undisclosed
 2020,Clover,Bangalore,Agritech,5500000.0,Series A
-2020,Nova Credit,Unavailable,FinTech,50000000.0,Series B
-2020,CodingNinjas,Delhi,EdTech,5200000.0,Series A
+2020,Nova Credit,Unavailable,Fintech,50000000.0,Series B
+2020,CodingNinjas,Delhi,Edtech,5200000.0,Series A
 2020,Furlenco,Bangalore,Ecommerce,2200000.0,Series C
 2020,Brick&Bolt,Bangalore,Unknown,1500000.0,Pre-series A
 2020,HempStreet,Unavailable,Healthtech,1000000.0,Pre-series A
 2020,MoEngage,Bangalore,Marketing,25000000.0,Series C
-2020,Classplus,Unavailable,EdTech,2500000.0,Pre-series A
+2020,Classplus,Unavailable,Edtech,2500000.0,Pre-series A
 2020,Chaayos,Unavailable,Beverages,21500000.0,Undisclosed
 2020,PetPooja,Ahmedabad,SaaS,2000000.0,Undisclosed
 2020,Altor,Unavailable,Tech,3000000.0,Undisclosed
 2020,Pepperfry,Mumbai,E-market,40000000.0,Series F
 2020,FirstCry,Pune,E-market,296000000.0,Series E
-2020,Byju,Unavailable,EdTech,200000000.0,Undisclosed
+2020,Byju,Unavailable,Edtech,200000000.0,Undisclosed
 2020,Waycool,Chennai,Agritech,32000000.0,Series C
 2020,WorkIndia,Unavailable,HR tech,6000000.0,Undisclosed
 2020,Qyuki,Mumbai,Media,3500000.0,Undisclosed
 2020,Leap India,Coimbatore,Agritech,30000000.0,Series B
 2020,Picxy,Hyderabad,Media,250000.0,Undisclosed
 2020,Krimanshi,Jodhpur,Agritech,20000.0,Undisclosed
-2020,NEETprep,Delhi,EdTech,3000000.0,Undisclosed
-2020,Dot Pvt. Ltd,Gurugram,FinTech,8000000.0,Seed
+2020,NEETprep,Delhi,Edtech,3000000.0,Undisclosed
+2020,Dot Pvt. Ltd,Gurugram,Fintech,8000000.0,Seed
 2020,Kuku FM,Mumbai,Media,5500000.0,Series A
-2020,SuperMoney,Mumbai,FinTech,1000000.0,Pre-series A
+2020,SuperMoney,Mumbai,Fintech,1000000.0,Pre-series A
 2020,Rebel Foods,Unavailable,Food tech,4900000.0,Undisclosed
 2020,AlphaVector,Bangalore,E tailor,3000000.0,Undisclosed
-2020,Fox Capital,Jaipur,FinTech,2500000.0,Undisclosed
+2020,Fox Capital,Jaipur,Fintech,2500000.0,Undisclosed
 2020,Tribe Theory,Bangalore,Accomodation,3500000.0,Undisclosed
 2020,Fleetx,Unavailable,SaaS,1402400.0,Series A
-2020,Embibe,Mumbai,EdTech,12618300.0,Undisclosed
-2020,Entri,Kochi,EdTech,1400000.0,Seed
+2020,Embibe,Mumbai,Edtech,12618300.0,Undisclosed
+2020,Entri,Kochi,Edtech,1400000.0,Seed
 2020,Oye! Rickshaw,Unavailable,E-mobility,10000000.0,Series A
-2020,Seal Professional,Bangalore,EdTech,3000000.0,Pre-series A
+2020,Seal Professional,Bangalore,Edtech,3000000.0,Pre-series A
 2020,Sprinng Foods,Mumbai,Food,3000000.0,Undisclosed
 2020,1MG,Gurugram,Healthtech,9900000.0,Undisclosed
-2020,Aagey,Bangalore,FinTech,3000000.0,Undisclosed
-2020,Doubtnut,Gurugram,EdTech,15000000.0,Series A
+2020,Aagey,Bangalore,Fintech,3000000.0,Undisclosed
+2020,Doubtnut,Gurugram,Edtech,15000000.0,Series A
 2020,AdonMo,Bangalore,Ad-tech,3000000.0,Undisclosed
 2020,RACEnergy,Unavailable,E-mobility,3000000.0,Seed
-2020,BharatPe,Delhi,FinTech,100000000.0,Undisclosed
+2020,BharatPe,Delhi,Fintech,100000000.0,Undisclosed
 2020,Kisan Network,Gurugram,Agritech,3000000.0,Seed
 2020,Vogo,Bangalore,Automotive,35000000.0,Series C
 2020,Unotech,Mumbai,SaaS,2000000.0,Undisclosed
 2020,Zetwerk,Bangalore,Marketplace,2200000.0,Undisclosed
 2020,CureSkin,Bangalore,Healthtech,500000.0,Undisclosed
-2020,WizKlub,Bangalore,EdTech,982530.0,Seed
-2020,Interviewbit,Pune,EdTech,200000000.0,Series A
-2020,MoneyTap,Unavailable,FinTech,70185200.0,Series B
+2020,WizKlub,Bangalore,Edtech,982530.0,Seed
+2020,Interviewbit,Pune,Edtech,200000000.0,Series A
+2020,MoneyTap,Unavailable,Fintech,70185200.0,Series B
 2020,Uniplatform Tech,Delhi,SaaS,3000000.0,Undisclosed
-2020,INdwealth,Gurugram,FinTech,12000000.0,Series C
+2020,INdwealth,Gurugram,Fintech,12000000.0,Series C
 2020,Bizongo,Mumbai,Marketplace,30000000.0,Series C
 2020,AppsFlyer,Bangalore,SaaS,210000000.0,Series D
 2020,Digit Insurance,Bangalore,Insurtech,84000000.0,Undisclosed
 2020,Livspace,Bangalore,Interior Design,60000000.0,Series D
-2020,GetVantage,Mumbai,FinTech,3000000.0,Seed
-2020,Konfinity,Noida,EdTech,3000000.0,Undisclosed
+2020,GetVantage,Mumbai,Fintech,3000000.0,Seed
+2020,Konfinity,Noida,Edtech,3000000.0,Undisclosed
+2020,Pine Labs,Noida,Fintech,3000000.0,Undisclosed
 2020,Instoried,Delhi,SaaS,3000000.0,Undisclosed
 2020,Nupay,Haryana,Neo-banking,3000000.0,Undisclosed
 2020,LogiNext,Unavailable,Transport Automation,39000000.0,Series B
 2020,Samosa Singh,Bangalore,Food,2700000.0,Series A
 2020,Crysta,Delhi,Healthtech,1403400.0,Pre-series A
-2020,Eupheus Learning,New Delhi,EdTech,4300000.0,Series A
+2020,Eupheus Learning,New Delhi,Edtech,4300000.0,Series A
 2020,Bounce,Bangalore,Automotive and Rentals,105000000.0,Series D
 2020,Park+,Unavailable,Techonology,11000000.0,Undisclosed
 2020,Goodmylk,Bangalore,Dairy,400000.0,Seed
@@ -1594,7 +1597,7 @@ Year,Company/Brand,HeadQuarter,Sector,Amount($),Stage
 2020,Skylo,Unavailable,IoT,103000000.0,Series B
 2020,Tea Trunk,Goa,Beverage,220000.0,Undisclosed
 2020,Zoomcar,Bangalore,Transport & Rentals,30000000.0,Series D
-2020,Mera Cashier,Noida,FinTech,250000.0,Seed
+2020,Mera Cashier,Noida,Fintech,250000.0,Seed
 2020,Samya AI,Unavailable,SaaS,6000000.0,Seed
 2020,Kristal AI,Unavailable,AI,6000000.0,Series A
 2020,Invento Robotics,Unavailable,AI Robotics,281300.0,Seed
@@ -1602,12 +1605,12 @@ Year,Company/Brand,HeadQuarter,Sector,Amount($),Stage
 2020,Sabse Sasta Dukaan,Kolkata,Pharmaceutical,3000000.0,Undisclosed
 2020,Fitphilia,Mumbai,Healthtech,3000000.0,Undisclosed
 2020,Medicus,Mumbai,Healthtech,12700.0,Undisclosed
-2020,Monech,Mumbai,FinTech,12700.0,Seed
-2020,Teach Us,Unavailable,EdTech,12700.0,Seed
+2020,Monech,Mumbai,Fintech,12700.0,Seed
+2020,Teach Us,Unavailable,Edtech,12700.0,Seed
 2020,Dealberg,Bangalore,B2B marketplace,3000000.0,Undisclosed
 2020,Phenom People,Unavailable,HR tech,30000000.0,Series C
-2020,Extra Edge,Pune,EdTech,700000.0,Pre-series A
-2020,Capital Quotient,Bangalore,FinTech,600000.0,Undisclosed
+2020,Extra Edge,Pune,Edtech,700000.0,Pre-series A
+2020,Capital Quotient,Bangalore,Fintech,600000.0,Undisclosed
 2020,Karfa,Delhi,Ecommerce,25000.0,Seed
 2020,Gamerji,Unavailable,Gaming,400000.0,Undisclosed
 2020,Bounce,Bangalore,Automotive and Rentals,97500000.0,Series D
@@ -1619,17 +1622,17 @@ Year,Company/Brand,HeadQuarter,Sector,Amount($),Stage
 2020,TechnifyBiz,Unavailable,B2B Agritech,2000000.0,Seed
 2020,Wysh,Hyderabad,E-connect,2000000.0,Series A
 2020,Keito,Pune,AI,160000.0,Seed
-2020,Klub,Unavailable,FinTech,2000000.0,Pre-seed
+2020,Klub,Unavailable,Fintech,2000000.0,Pre-seed
 2020,Aadhar,Mumbai,Ecommerce,3000000.0,Seed
 2020,IncubateHub,Bangalore,Tech hub,3000000.0,Undisclosed
 2020,Rage Coffee,Delhi,FMCG,3000000.0,Undisclosed
 2020,Skilancer,Noida,Technology,3000000.0,Undisclosed
-2020,Harappa Education,New Delhi,EdTech,3000000.0,Undisclosed
+2020,Harappa Education,New Delhi,Edtech,3000000.0,Undisclosed
 2020,Rheo,Unavailable,Entertainment,2000000.0,Undisclosed
 2020,Axio Biosolutions,Bangalore,Medtech,5200000.0,Series B
 2020,Techbooze,Unavailable,Consultancy,15000000.0,Series A
-2020,PayMart,Chandigarh,FinTech,3000000.0,Undisclosed
-2020,Testbook,Unavailable,EdTech,8400000.0,Series B
+2020,PayMart,Chandigarh,Fintech,3000000.0,Undisclosed
+2020,Testbook,Unavailable,Edtech,8400000.0,Series B
 2020,FabAlley,Noida,Ecommerce,1100000.0,Undisclosed
 2020,HaikuJAM,Unavailable,Unknown,3400000.0,Undisclosed
 2020,Mamaearth,Unavailable,Ecommerce,18300000.0,Series A
@@ -1640,17 +1643,17 @@ Year,Company/Brand,HeadQuarter,Sector,Amount($),Stage
 2020,Chai Kings,Chennai,Beverage,1000000.0,Undisclosed
 2020,Rivigo,Gurugram,Logistics,3400000.0,Series F
 2020,BuildPan,Indore,SaaS,3000000.0,Seed
-2020,Shiksha,Unavailable,EdTech,181000.0,Undisclosed
+2020,Shiksha,Unavailable,Edtech,181000.0,Undisclosed
 2020,Super Surfaces,Hyderabad,Deisgning,500000.0,Series A
 2020,Quicko,Ahmedabad,Taxation,280000.0,Undisclosed
-2020,Satin Creditcare,Gurgaon,FinTech,15000000.0,Undisclosed
+2020,Satin Creditcare,Gurgaon,Fintech,15000000.0,Undisclosed
 2020,XpressBees,Unavailable,Logistics,10000000.0,Undisclosed
 2020,FarmERP,Pune,Agritech,3000000.0,Series A
-2020,Wealth Bucket,Unavailable,FinTech,3000000.0,Undisclosed
+2020,Wealth Bucket,Unavailable,Fintech,3000000.0,Undisclosed
 2020,GoMechanic,Delhi,Automobile Technology,14700000.0,Series B
 2020,Fashor,Chennai,Fashion,1000000.0,Pre-series A
-2020,Leverage Edu,Delhi,EdTech,1500000.0,Undisclosed
-2020,EpiFi,Unavailable,FinTech,13200000.0,Seed
+2020,Leverage Edu,Delhi,Edtech,1500000.0,Undisclosed
+2020,EpiFi,Unavailable,Fintech,13200000.0,Seed
 2020,Purplle,Mumbai,Cosmetics,8000000.0,Undisclosed
 2020,Shuttl,Delhi,Transport,8043000.0,Series C
 2020,Pando,Chennai,Logitech,9000000.0,Series A
