@@ -56,7 +56,7 @@ ii. **Focus on sectors with high funding potential:** Sectors like Retail, EdTec
 
 iii. **Target seed-stage funding opportunities:** Seed-stage funding has shown a positive trend and increased investor interest. Focusing on seed-stage funding can provide a solid foundation for startups and potentially lead to further funding rounds.
 
-iv.** Consider establishing a presence in key startup hubs:** Location plays a role in funding, with Bangalore, Mumbai, Gurugram, New Delhi, and California being prominent startup hubs. Establishing headquarters or significant presence in these locations can leverage the thriving ecosystem, funding opportunities, skilled talent, and industry networks.
+iv. **Consider establishing a presence in key startup hubs:** Location plays a role in funding, with Bangalore, Mumbai, Gurugram, New Delhi, and California being prominent startup hubs. Establishing headquarters or significant presence in these locations can leverage the thriving ecosystem, funding opportunities, skilled talent, and industry networks.
 
 v. **Monitor and adapt to funding trends:** Startup funding trends can change, influenced by various factors. Close monitoring of funding landscapes, sector preferences, and funding activities in different locations is crucial. Staying updated on market conditions and investor preferences will help adapt strategies and increase chances of securing funding.
 
