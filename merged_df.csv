@@ -4,26 +4,26 @@ Year,Company/Brand,HeadQuarter,Sector,Amount($),Stage
 2018,MyLoanCare,Gurgaon,"Credit, Financial Services, Lending, Marketplace",949000.0,Series A
 2018,PayMe India,Noida,"Financial Services, FinTech",2000000.0,Angel
 2018,Eunimart,Hyderabad,"E-Commerce Platforms, Retail, SaaS",1300000.0,Seed
-2018,Hasura,Bengaluru,"Cloud Infrastructure, PaaS, SaaS",1600000.0,Seed
+2018,Hasura,Bangalore,"Cloud Infrastructure, PaaS, SaaS",1600000.0,Seed
 2018,Tripshelf,Kalkaji,"Internet, Leisure, Marketplace",233600.0,Seed
 2018,Hyperdata.IO,Hyderabad,Market Research,730000.0,Angel
 2018,Freightwalla,Mumbai,"Information Services, Information Technology",1300000.0,Seed
 2018,Microchip Payments,Bangalore,Mobile Payments,1300000.0,Seed
 2018,BizCrum Infotech Pvt. Ltd.,Delhi,"B2B, Shoes",1300000.0,Seed
-2018,Emojifi,Bengaluru,Internet,1300000.0,Seed
+2018,Emojifi,Bangalore,Internet,1300000.0,Seed
 2018,Flock,India,"Apps, Collaboration, Developer Platform, Enterprise Software, Messaging, Productivity Tools, Video Chat",1300000.0,Seed
 2018,Freshboxx,Hubli,Food Delivery,1300000.0,Seed
 2018,Wide Mobility Mechatronics,Bangalore,Industrial Automation,1300000.0,Seed
-2018,Pitstop,Bengaluru,"Automotive, Search Engine, Service Industry",1460000.0,Seed
+2018,Pitstop,Bangalore,"Automotive, Search Engine, Service Industry",1460000.0,Seed
 2018,Mihuru,Mumbai,"Finance, Internet, Travel",150000.0,Seed
-2018,Fyle,Bengaluru,"Accounting, Business Information Systems, Business Travel, Finance, SaaS",1100000.0,Seed
+2018,Fyle,Bangalore,"Accounting, Business Information Systems, Business Travel, Finance, SaaS",1100000.0,Seed
 2018,AppWharf,New Delhi,"Artificial Intelligence, Product Search, SaaS, Service Industry, Software",1300000.0,Seed
 2018,Antariksh Waste Ventures Pvt ltd,Chennai,"Internet of Things, Waste Management",7300.0,Seed
 2018,Cogoport,Mumbai,"Air Transportation, Freight Service, Logistics, Marine Transportation",6000000.0,Series A
 2018,PaisaDukan,Mumbai,Financial Services,650000.0,Seed
 2018,Sleepy Owl Coffee,New Delhi,Food and Beverage,511000.0,Seed
 2018,BlueJack,Delhi,Autonomous Vehicles,934400.0,Seed
-2018,PregBuddy,Bengaluru,"Enterprise Software, Health Care, Hospital, Parenting, Personal Health, SaaS",1300000.0,Seed
+2018,PregBuddy,Bangalore,"Enterprise Software, Health Care, Hospital, Parenting, Personal Health, SaaS",1300000.0,Seed
 2018,AgNext Technologies,Mohali,"Agriculture, Analytics, Big Data, Farming",1300000.0,Series A
 2018,Pando,Chennai,"Logistics, Supply Chain Management",2000000.0,Seed
 2018,Mintifi,Mumbai,"Financial Services, Lending",2000000.0,Seed
@@ -32,9 +32,9 @@ Year,Company/Brand,HeadQuarter,Sector,Amount($),Stage
 2018,Chariot Tech,New Delhi,"Internet of Things, Telecommunications",292000.0,Seed
 2018,Ideal Insurance Brokers/ 121Policy.com,Kolkata,Insurance,1000000.0,Seed
 2018,Loanzen,Bangalore,Financial Services,1300000.0,Seed
-2018,Mojro Technologies,Bengaluru,"Information Technology, Logistics, Supply Chain Management",650000.0,Seed
+2018,Mojro Technologies,Bangalore,"Information Technology, Logistics, Supply Chain Management",650000.0,Seed
 2018,Elemential,Mumbai,"Blockchain, Developer Tools, Enterprise Software",1000000.0,Seed
-2018,Loadshare,Bengaluru,"Industrial Automation, Logistics, Supply Chain Management",5000000.0,Series A
+2018,Loadshare,Bangalore,"Industrial Automation, Logistics, Supply Chain Management",5000000.0,Series A
 2018,Yumlane,Mumbai,"Food and Beverage, Food Delivery, Snack Food",4000000.0,Series A
 2018,Kriger Campus,New Delhi,Education,438000.0,Seed
 2018,Pipa+Bella,Mumbai,"E-Commerce, Fashion, Jewelry, Retail",1000000.0,Series A
@@ -51,7 +51,7 @@ Year,Company/Brand,HeadQuarter,Sector,Amount($),Stage
 2018,Tolet for Students,Jodhpur,Hospitality,73000.0,Seed
 2018,Chai Kings,Chennai,"Food and Beverage, Tea",292000.0,Seed
 2018,Dainik Jagran,Kanpur,"Media and Entertainment, News, Outdoors",584000.0,Seed
-2018,Playtoome,Bengaluru,"Broadcasting, Media and Entertainment, Music, Music Streaming, Video, Video Streaming",292000.0,Seed
+2018,Playtoome,Bangalore,"Broadcasting, Media and Entertainment, Music, Music Streaming, Video, Video Streaming",292000.0,Seed
 2018,ONGO Framework,Hyderabad,"B2B, Information Services, Information Technology",1000000.0,Angel
 2018,Notesgen,New Delhi,"EdTech, Education, Enterprise Software, Peer to Peer",182500.0,Seed
 2018,Arogya MedTech,Kolkata,"Health Care, Medical",219000.0,Seed
@@ -60,7 +60,7 @@ Year,Company/Brand,HeadQuarter,Sector,Amount($),Stage
 2018,MissMalini Entertainment,Mumbai,Unknown,1518400.0,Seed
 2018,Rooter,India,Sports,657000.0,Seed
 2018,ZestMoney,Bangalore,"Big Data, Consumer Lending, FinTech",13400000.0,Series A
-2018,alphaics Corporation,Bengaluru,"Cloud Computing, Computer, Semiconductor",1300000.0,Seed
+2018,alphaics Corporation,Bangalore,"Cloud Computing, Computer, Semiconductor",1300000.0,Seed
 2018,MyDentistChoice,Hyderabad,"Health Care, Medical, Pharmaceutical",500000.0,Seed
 2018,Sattviko,New Delhi,"Food Processing, Retail",1300000.0,Angel
 2018,Sensibull,Bangalore,Trading Platform,365000.0,Seed
@@ -79,7 +79,7 @@ Year,Company/Brand,HeadQuarter,Sector,Amount($),Stage
 2018,HappyEMI,Bangalore,"Consumer, Financial Services, FinTech",1000000.0,Seed
 2018,Wishup,Azadpur,"Consumer Applications, Information Services, Location Based Services, Virtual Assistant",1300000.0,Seed
 2018,Hansel.io,Bangalore,"Mobile, Mobile Apps, Personalization, Test and Measurement, Web Apps",4000000.0,Series A
-2018,Propelld,Bengaluru,"Education, Financial Services, FinTech",250000.0,Seed
+2018,Propelld,Bangalore,"Education, Financial Services, FinTech",250000.0,Seed
 2018,PivotRoots,Mumbai,"Advertising, Consulting, Digital Marketing",1300000.0,Series A
 2018,ZiffyHomes,New Delhi,"Marketplace, Real Estate, Rental Property",120000.0,Seed
 2018,Carmesi,Gurgaon,Health Care,496400.0,Seed
@@ -91,7 +91,7 @@ Year,Company/Brand,HeadQuarter,Sector,Amount($),Stage
 2018,Tranzmeo,Cochin,"Artificial Intelligence, Business Intelligence, Industrial Automation, Machine Learning",1300000.0,Pre-seed
 2018,SBI Life,Mumbai,Insurance,742000000.0,Equity
 2018,Studds Accessories,Faridabad,E-Commerce,14600000.0,Equity
-2018,Design Cafe,Bengaluru,"Home Decor, Home Improvement, Home Renovation, Home Services, Interior Design, Smart Home",29200000.0,Series B
+2018,Design Cafe,Bangalore,"Home Decor, Home Improvement, Home Renovation, Home Services, Interior Design, Smart Home",29200000.0,Series B
 2018,NoPaperForms Solutions Pvt. Ltd.,New Delhi,"EdTech, Education, Information Services, SaaS",3980000.0,Series B
 2018,Rays Power Infra,Jaipur,"Energy, Solar",29200000.0,Undisclosed
 2018,AuthMetrik,Gurgaon,"B2B, Biometrics, Cyber Security, Fraud Detection, SaaS, Security",10000.0,Grant
@@ -122,11 +122,11 @@ Year,Company/Brand,HeadQuarter,Sector,Amount($),Stage
 2018,Dee Dee Labs,Pune,"Embedded Systems, Health Care, Medical, Product Research",1300000.0,Seed
 2018,FLEECA,Jaipur,Unknown,1300000.0,Seed
 2018,Shop101,Mumbai,"Apps, E-Commerce, Internet",11000000.0,Series B
-2018,FeedMyPockets,Bangalore City,"Advertising, Human Resources, Marketing",642400.0,Seed
-2018,Housejoy,Bengaluru,"Beauty, Fitness, Home Services, Internet",3240000.0,Series B
+2018,FeedMyPockets,Bangalore,"Advertising, Human Resources, Marketing",642400.0,Seed
+2018,Housejoy,Bangalore,"Beauty, Fitness, Home Services, Internet",3240000.0,Series B
 2018,Ambee,Bangalore,"Health Care, Medical Device, Public Safety",1300000.0,Angel
 2018,FoodBuddy,Belgaum,"Food Delivery, Online Portals, Restaurants",876000.0,Seed
-2018,Ninjacart,Bengaluru,"AgTech, B2B, Supply Chain Management",36500000.0,Series B
+2018,Ninjacart,Bangalore,"AgTech, B2B, Supply Chain Management",36500000.0,Series B
 2018,Olly Smart Credit Card,New Delhi,"Credit Cards, Finance, Mobile Apps, Mobile Payments, Payments",1300000.0,Seed
 2018,Zestl,Pune,Software,1300000.0,Seed
 2018,BYJU’S,Bangalore,"EdTech, Education, Higher Education, Secondary Education",540000000.0,Equity
@@ -166,15 +166,15 @@ Year,Company/Brand,HeadQuarter,Sector,Amount($),Stage
 2018,Classworks India,Chennai,"Education, Information Technology, Internet, Mobile, Software",1460.0,Undisclosed
 2018,Snapmint,Mumbai,"Consumer Lending, Financial Services, Lending, Personal Finance",1300000.0,Seed
 2018,artbandhu,Bangalore,"Digital Media, Internet, Media and Entertainment, Online Portals, Social Media",15000.0,Pre-seed
-2018,Survaider,Bengaluru,"Business Intelligence, Customer Service, Market Research, SaaS",500000.0,Seed
-2018,Credy,Bengaluru,"Credit, Financial Services, FinTech, Lending",1400000.0,Seed
+2018,Survaider,Bangalore,"Business Intelligence, Customer Service, Market Research, SaaS",500000.0,Seed
+2018,Credy,Bangalore,"Credit, Financial Services, FinTech, Lending",1400000.0,Seed
 2018,iChamp,Gurgaon,E-Learning,5000000.0,Seed
 2018,Qandle,Gurgaon,Software,1200000.0,Seed
 2018,Avishkaar Box,Delhi,"Children, Education, Parenting",730000.0,Seed
 2018,Gegadyne Energy,Mumbai,"Automotive, Battery, Energy, Energy Storage",1300000.0,Angel
 2018,HyperXchange,Pune,"E-Commerce, Mobile, Sharing Economy",1000000.0,Series A
 2018,Deftouch,Bangalore,Unknown,1300000.0,Seed
-2018,Doodhwala,Bengaluru,"Food Delivery, Organic, Organic Food",2200000.0,Seed
+2018,Doodhwala,Bangalore,"Food Delivery, Organic, Organic Food",2200000.0,Seed
 2018,DronaHQ,Mumbai,Mobile,500000.0,Angel
 2018,FastFox,Gurgaon,Rental,1460000.0,Series A
 2018,BuyForexOnline,Bangalore,Travel,2000000.0,Undisclosed
@@ -182,7 +182,7 @@ Year,Company/Brand,HeadQuarter,Sector,Amount($),Stage
 2018,Agricxlab Private Limited,Thane,"B2B, Farming, Marketplace",500000.0,Seed
 2018,Corefactors,Bangalore,Unknown,1300000.0,Seed
 2018,Fincash.com,Mumbai,Wealth Management,150000.0,Seed
-2018,Pandorum Technologies,Bengaluru,Biotechnology,3600000.0,Series A
+2018,Pandorum Technologies,Bangalore,Biotechnology,3600000.0,Series A
 2018,Shirsa Labs,Mumbai,"Education, Gaming, Training",500000.0,Seed
 2018,PetSutra,Gurgaon,Veterinary,138700.0,Seed
 2018,Awaaz De,Ahmedabad,"Internet, Mobile, Social Entrepreneurship, Telecommunications, Wireless",1300000.0,Angel
@@ -195,13 +195,13 @@ Year,Company/Brand,HeadQuarter,Sector,Amount($),Stage
 2018,Aviom India Housing Finance,New Delhi,Finance,2190000.0,Series A
 2018,GenRobotic,Trivandrum,Market Research,1300000.0,Seed
 2018,HeyHolidays,Bangalore,"Tourism, Travel",1000000.0,Seed
-2018,Pratilipi,Bengaluru,"Digital Media, EBooks, Publishing, Reading Apps",4300000.0,Series A
+2018,Pratilipi,Bangalore,"Digital Media, EBooks, Publishing, Reading Apps",4300000.0,Series A
 2018,SectorQube,Ernakulam,"Consumer Electronics, Embedded Systems, Hardware, Smart Building, Software",1300000.0,Seed
 2018,Food Memories,Ahmedabad,"Food and Beverage, Food Processing",1300000.0,Seed
 2018,ZAMROO,India,"Internet, Marketplace, Shopping",1300000.0,Seed
 2018,Silversparro Technologies Pvt. Ltd,Gurgaon,"Analytics, Computer Vision, Enterprise Software, Machine Learning, Natural Language Processing, Speech Recognition",300000.0,Seed
 2018,Creator’s Gurukul,Gurgaon,Facilities Support Services,1300000.0,Angel
-2018,Emflux Motors,Bengaluru,"Automotive, Electric Vehicle, Energy",364846.0,Seed
+2018,Emflux Motors,Bangalore,"Automotive, Electric Vehicle, Energy",364846.0,Seed
 2018,Tricog Health Services Pvt Ltd,Bangalore,"Health Care, Health Diagnostics, Predictive Analytics",4000000.0,Series A
 2018,Scapic,Bangalore,"Cloud Computing, Computer, SaaS, Software",500000.0,Seed
 2018,6Degree,Mumbai,"Fashion, Lifestyle, Retail",400000.0,Seed
@@ -234,20 +234,20 @@ Year,Company/Brand,HeadQuarter,Sector,Amount($),Stage
 2018,Trendlyne Technologies,Bangalore,Financial Services,200000.0,Seed
 2018,Planys Technologies,Chennai,"Manufacturing, Oil and Gas, Robotics",2046920.0,Series A
 2018,HealthPlix,Bangalore,"Fitness, Health Care, Wellness",3000000.0,Series A
-2018,dishq,Bengaluru,Unknown,400000.0,Seed
-2018,Entropik Technology,Bengaluru,"Artificial Intelligence, Computer, Machine Learning",1100000.0,Seed
+2018,dishq,Bangalore,Unknown,400000.0,Seed
+2018,Entropik Technology,Bangalore,"Artificial Intelligence, Computer, Machine Learning",1100000.0,Seed
 2018,myHQ,Delhi,"Collaboration, Communities, Coworking, Sharing Economy",500000.0,Series A
-2018,Trell,Bangalore City,Unknown,1250000.0,Seed
+2018,Trell,Bangalore,Unknown,1250000.0,Seed
 2018,Kidovators (by GyanLab),Bangalore,"Big Data, EdTech, Machine Learning",180000.0,Seed
 2018,Log 9 Materials,Uttar Pradesh,Nanotechnology,438000.0,Seed
 2018,VTION,Gurgaon,"Analytics, Audio, Digital Media, Innovation Management, Internet Radio, Media and Entertainment",280320.0,Seed
-2018,HousingMan.com,Bengaluru,Unknown,1503800.0,Seed
+2018,HousingMan.com,Bangalore,Unknown,1503800.0,Seed
 2018,Steradian Semiconductors,Bangalore,Unknown,1300000.0,Seed
 2018,RupeeCircle,Mumbai,"Financial Services, Lending, Peer to Peer",584000.0,Seed
 2018,Wooden Street,Jaipur,"E-Commerce, Furniture, Home Decor, Interior Design, Internet",1000000.0,Series A
-2018,The Ken,Bengaluru,Digital Media,1500000.0,Series A
+2018,The Ken,Bangalore,Digital Media,1500000.0,Series A
 2018,SaffronStays,Mumbai,Unknown,2000000.0,Seed
-2018,Vebbler,Bengaluru,"File Sharing, Personalization, Social Media",1300000.0,Seed
+2018,Vebbler,Bangalore,"File Sharing, Personalization, Social Media",1300000.0,Seed
 2018,Foyr,Pune,"Home Decor, Interior Design",4200000.0,Series A
 2018,MEngage,Jaipur,"Health Care, Medical Device, Mobile Apps",175000.0,Seed
 2018,Inner Being Wellness,Hyderabad,Unknown,511000.0,Angel
@@ -259,7 +259,7 @@ Year,Company/Brand,HeadQuarter,Sector,Amount($),Stage
 2018,MySEODoc,Delhi,Unknown,1300000.0,Seed
 2018,ENLYFT DIGITAL SOLUTIONS PRIVATE LIMITED,Pune,Unknown,2920.0,Seed
 2018,Scale Labs,Delhi,Unknown,1000000.0,Seed
-2018,HungerBox,Bengaluru,"B2B, Food and Beverage, Food Delivery",4500000.0,Series A
+2018,HungerBox,Bangalore,"B2B, Food and Beverage, Food Delivery",4500000.0,Series A
 2018,Biryani By Kilo,Noida,"Catering, Food and Beverage, Food Delivery, Food Processing",1000000.0,Seed
 2018,Wholesome Habits (EAT Anytime),Mumbai,"Food and Beverage, Snack Food",500000.0,Seed
 2018,GoBumpr,Mylapore,"Automotive, E-Commerce, Mobile",600000.0,Seed
@@ -271,19 +271,19 @@ Year,Company/Brand,HeadQuarter,Sector,Amount($),Stage
 2018,Eggoz,Indore,"Food and Beverage, Food Processing",175200.0,Angel
 2018,Sqrrl Fintech,Gurgaon,"Big Data, Business Intelligence, Financial Services, FinTech, Personal Finance",1000000.0,Seed
 2018,GalaxyCard,Noida,"Finance, Financial Services, FinTech",1300000.0,Seed
-2018,IndiQube,Bengaluru,"Commercial Real Estate, Coworking, Office Administration, Real Estate",15000000.0,Series A
+2018,IndiQube,Bangalore,"Commercial Real Estate, Coworking, Office Administration, Real Estate",15000000.0,Series A
 2018,EGK Foods,Mumbai,"Food and Beverage, Food Processing, Organic Food, Snack Food",292000.0,Seed
 2018,NirogStreet,Gurgaon,"Apps, Health Care, Internet, Mobile Apps, Personal Health",300000.0,Seed
 2018,Pixr8,Ghaziabad,"Digital Media, Incubators, Social Entrepreneurship",50000.0,Seed
 2018,Nivesh.com,Noida,"Finance, Financial Services, Marketing",438000.0,Seed
 2018,Theranosis Life Sciences,Hyderabad,"Biotechnology, Health Care, Life Science, Medical Device",1300000.0,Seed
-2018,Poshmiles Online Solutions Private Limited,Bengaluru,Travel,1300000.0,Seed
+2018,Poshmiles Online Solutions Private Limited,Bangalore,Travel,1300000.0,Seed
 2018,Reculta,Noida,"Education, Human Resources",1300000.0,Seed
 2018,Orbo.ai,Mumbai,Internet,1300000.0,Seed
 2018,Inntot Technologies,Kochi,Consumer Electronics,1300000.0,Seed
 2018,Zoctr Health,Powai,"Apps, Health Care, Hospital, Mobile Apps",1300000.0,Seed
 2018,Hey Deedee,Mumbai,"Delivery Service, Logistics, Service Industry",481800.0,Seed
-2018,DigiConnectt Technologys,Bengaluru,"Information Services, Information Technology",125000.0,Seed
+2018,DigiConnectt Technologys,Bangalore,"Information Services, Information Technology",125000.0,Seed
 2018,Locus.sh,Bangalore,"Big Data, Data Visualization, Logistics, Software",4000000.0,Series A
 2018,Sports Flashes Pvt. Ltd,New Delhi,"Basketball, Cricket, Cycling, eSports, Fitness, Golf, Health Care, Hockey, Sports, Swimming, Table Tennis, Volley Ball",1000000.0,Seed
 2018,Inc42,New Delhi,"Media and Entertainment, News, Publishing",1300000.0,Seed
@@ -296,20 +296,20 @@ Year,Company/Brand,HeadQuarter,Sector,Amount($),Stage
 2018,Roadcast,New Delhi,Unknown,250000.0,Angel
 2018,Printline Media(ThePrint),New Delhi,"Digital Media, News, Publishing",509540.0,Seed
 2018,Creditas Solutions,Gurgaon,Financial Services,1300000.0,Seed
-2018,UrbanPiper,Bengaluru,Software,1300000.0,Seed
+2018,UrbanPiper,Bangalore,Software,1300000.0,Seed
 2018,Doxper,Mumbai,"Health Care, Hospital",1051200.0,Seed
 2018,i2ifunding,Noida,"Crowdfunding, Finance, Financial Services",730000.0,Angel
 2018,ShakeDeal,Bangalore,"B2B, E-Commerce, Enterprise",1300000.0,Seed
 2018,HelloVerify,Noida,"Fraud Detection, Information Services, Security",1300000.0,Seed
-2018,Fasal,Bengaluru,"Agriculture, AgTech, Artificial Intelligence, Internet of Things, Machine Learning",120000.0,Seed
+2018,Fasal,Bangalore,"Agriculture, AgTech, Artificial Intelligence, Internet of Things, Machine Learning",120000.0,Seed
 2018,CoinGeto,Delhi,"Cryptocurrency, Trading Platform",1752000.0,Seed
 2018,Avail Finance,Bangalore,"Finance, FinTech, Mobile Payments",17200000.0,Series A
-2018,Tripeur,Bengaluru,Information Technology,600000.0,Seed
+2018,Tripeur,Bangalore,Information Technology,600000.0,Seed
 2018,Wedeterna,Bangalore,Wedding,1300000.0,Angel
 2018,Stumagz,Hyderabad,Digital Media,1300000.0,Seed
 2018,Doubtnut,Gurgaon,"E-Learning, EdTech, Education, Image Recognition, Machine Learning, STEM Education",511000.0,Seed
 2018,MCaffeine,Mumbai,Consumer Goods,467200.0,Seed
-2018,TrustCheckr,Bengaluru,Information Technology,100000.0,Angel
+2018,TrustCheckr,Bangalore,Information Technology,100000.0,Angel
 2018,HealthAssure,Mumbai,"Fitness, Health Care, Wellness",1000000.0,Seed
 2018,Picture TIme,New Delhi,Digital Entertainment,3650000.0,Seed
 2018,1Crowd,Mumbai,"Crowdsourcing, Financial Services, Funding Platform, Venture Capital",3500000.0,Angel
@@ -331,19 +331,19 @@ Year,Company/Brand,HeadQuarter,Sector,Amount($),Stage
 2018,arzooo.com,Bangalore,"Consumer Electronics, E-Commerce, E-Commerce Platforms, Electronics, Shipping, Shopping",219000.0,Seed
 2018,Bonphul Air Products,Delhi,CleanTech,292000.0,Angel
 2018,DheeYantra Research Labs,Bangalore,Artificial Intelligence,1300000.0,Seed
-2018,Edyoo,Bengaluru,Education,1000000.0,Seed
+2018,Edyoo,Bangalore,Education,1000000.0,Seed
 2018,Chtrbox,Mumbai,"Advertising, Internet, Marketing",146000.0,Angel
 2018,Aashiyaan Housing and Development Finance,Kolkata,Financial Services,1971000.0,Seed
-2018,BetterPlace Safety Solutions Pvt. Ltd.,Bangalore City,"Human Resources, Security, Training",3000000.0,Series A
-2018,Cashkumar,Bengaluru,"Consumer Lending, Finance, FinTech",730000.0,Seed
+2018,BetterPlace Safety Solutions Pvt. Ltd.,Bangalore,"Human Resources, Security, Training",3000000.0,Series A
+2018,Cashkumar,Bangalore,"Consumer Lending, Finance, FinTech",730000.0,Seed
 2018,Rocketium,Bangalore,"Marketing, Social Media, Video",292000.0,Seed
 2018,FreightBazaar,Hyderabad,Transportation,1300000.0,Seed
 2018,OPEN,Bangalore,Banking,1300000.0,Seed
-2018,mfine,Bengaluru,"Health Care, Hospital",4200000.0,Series A
+2018,mfine,Bangalore,"Health Care, Hospital",4200000.0,Series A
 2018,Earth Food,Pune,"Food and Beverage, Food Processing",934400.0,Seed
 2018,Charcoal Eats,Mumbai,Food Processing,730000.0,Seed
 2018,Wishfie,Bangalore,Apps,1300000.0,Seed
-2018,The Social Hook,Bengaluru,Marketing,1300000.0,Seed
+2018,The Social Hook,Bangalore,Marketing,1300000.0,Seed
 2018,FreightBro,Mumbai,"Apps, B2B, Freight Service, Logistics, SaaS, Shipping, Supply Chain Management, Transportation",1300000.0,Seed
 2018,Finwego,Chennai,Unknown,1300000.0,Seed
 2018,Cricnwin,Gurgaon,"Digital Entertainment, Fantasy Sports, Gaming, Sports",1300000.0,Seed
@@ -358,15 +358,15 @@ Year,Company/Brand,HeadQuarter,Sector,Amount($),Stage
 2018,Perspectico,New Delhi,"Career Planning, Education, Internet",1300000.0,Seed
 2018,The Souled Store,Mumbai,"Fashion, Graphic Design, Wearables",3000000.0,Undisclosed
 2018,Hush - Speak Up. Make Work Better,Bangalore,"Communities, Leisure, Mobile Apps, Software",657000.0,Seed
-2018,Drivezy,Bengaluru,"Automotive, Rental, Sharing Economy",100000000.0,Debt
+2018,Drivezy,Bangalore,"Automotive, Rental, Sharing Economy",100000000.0,Debt
 2018,Freyr Energy,Hyderabad,"Energy, Environmental Consulting, Renewable Energy, Solar",1500000.0,Series A
 2018,NIRAMAI Health Analytix,Bangalore,"Health Care, Hospital",6000000.0,Seed
-2018,CloudSek,Bengaluru,"Information Technology, SaaS, Security",2044000.0,Seed
+2018,CloudSek,Bangalore,"Information Technology, SaaS, Security",2044000.0,Seed
 2018,Lendbox,Delhi,"Crowdfunding, Financial Services, Internet",876000.0,Seed
 2018,Verloop,Bangalore,"Customer Service, Information Technology, Internet, Sales Automation",3000000.0,Series A
 2018,Flickstree,Mumbai,"Advertising, Artificial Intelligence, Digital Media, iOS, Location Based Services, News, Video, Video on Demand, Video Streaming",1300000.0,Seed
 2018,Paymatrix,Hyderabad,"Credit Cards, Payments, Property Insurance, Property Management, Rental Property",100000.0,Seed
-2018,Idha Skin Clinic,Bangalore City,"Beauty, Cosmetics, Health Care, Service Industry",73000.0,Seed
+2018,Idha Skin Clinic,Bangalore,"Beauty, Cosmetics, Health Care, Service Industry",73000.0,Seed
 2018,InCred,Mumbai,"Banking, Finance, Financial Services",41900000.0,Equity
 2018,Vedantu,Bangalore,"EdTech, Education, Mobile, Tutoring",11000000.0,Series B
 2018,Sportido,Noida,"Social Media, Sports",1300000.0,Seed
@@ -380,7 +380,7 @@ Year,Company/Brand,HeadQuarter,Sector,Amount($),Stage
 2018,Signzy,Bangalore,"Computer, FinTech, Risk Management, Software",3504000.0,Series A
 2018,CashRich,Mumbai,"Apps, Financial Services, FinTech",1000000.0,Seed
 2018,Cloudnine Hospitals,Bangalore,"Child Care, Health Care, Hospital, Medical, Women's",1300000.0,Equity
-2018,CropIn Technologies,Bengaluru,"Agriculture, Mobile",8468000.0,Series B
+2018,CropIn Technologies,Bangalore,"Agriculture, Mobile",8468000.0,Series B
 2018,Billdesk,Ahmedabad,"Finance, FinTech, Payments, Property Development, Rental",1300000.0,Undisclosed
 2018,Yaantra,Delhi,"Information Services, Information Technology, Mobile, Software",2000000.0,Debt
 2018,TECHBOOZE,New Delhi,Education,100000.0,Seed
@@ -389,18 +389,18 @@ Year,Company/Brand,HeadQuarter,Sector,Amount($),Stage
 2018,Perpule,Bangalore,"Apps, Payments, Retail",4964000.0,Series A
 2018,Royal Sundaram General Insurance Co. Limited,Kalpakkam,"Health Insurance, Insurance, Life Insurance",210000000.0,Corporate Round
 2018,CleanseCar,Bangalore,Automotive,511000.0,Angel
-2018,DRIVEU,Bengaluru,"Rental, Taxi Service, Travel",1022000.0,Undisclosed
+2018,DRIVEU,Bangalore,"Rental, Taxi Service, Travel",1022000.0,Undisclosed
 2018,Spinny,Gurgaon,"E-Commerce, E-Commerce Platforms, Internet, Retail",11000000.0,Series A
 2018,Asset Reconstruction Company (India) Ltd.,Mumbai,"Financial Services, Professional Services",1300000.0,Secondary Market
 2018,Med365 Healthcare,Jaipur,Health Diagnostics,730000.0,Seed
 2018,Dunzo,Bangalore,"Customer Service, Messaging, Mobile Apps, Personalization",1022000.0,Debt
-2018,Mobile Premier League (MPL),Bengaluru,"Gaming, iOS, Sports",5000000.0,Series A
+2018,Mobile Premier League (MPL),Bangalore,"Gaming, iOS, Sports",5000000.0,Series A
 2018,WalMart India,Gurgaon,Retail,37680000.0,Undisclosed
-2018,Cred,Bengaluru,Unknown,1300000.0,Seed
+2018,Cred,Bangalore,Unknown,1300000.0,Seed
 2018,Meesho,Bangalore,"E-Commerce, E-Commerce Platforms, Internet, Mobile Apps, Social Media",50000000.0,Series C
 2018,BhaskarGuru,Bhopal,Search Engine,1000000.0,Seed
 2018,Gugu,Coimbatore,"Battery, Electric Vehicle, Energy, Renewable Energy, Transportation",250000.0,Seed
-2018,FarmTaaza,Bengaluru,"Agriculture, Farmers Market, Farming",1300000.0,Series A
+2018,FarmTaaza,Bangalore,"Agriculture, Farmers Market, Farming",1300000.0,Series A
 2018,Vizzbee,Bhopal,"Artificial Intelligence, Drones, Navigation, Packaging Services, Robotics",20000.0,Pre-seed
 2018,BIGPHI TECHNOLOGIES PVT. LTD.,Bangalore,Fashion,900000.0,Angel
 2018,Mobycy,Gurgaon,"Fitness, GreenTech, Internet of Things, Mobile Apps, Ride Sharing, Transportation",1300000.0,Angel
@@ -436,17 +436,17 @@ Year,Company/Brand,HeadQuarter,Sector,Amount($),Stage
 2018,Truebil,Mumbai,"Automotive, E-Commerce, Marketplace",2000000.0,Series A
 2018,FarmersFZ,Kochi,Agriculture,1300000.0,Seed
 2018,Worxogo,Bangalore,Information Technology,2409000.0,Series A
-2018,Vivish Technologies (myGate),Bengaluru,"Apps, Information Services, Information Technology",9490000.0,Series A
-2018,Singularity Dynamics,Bengaluru,Artificial Intelligence,1300000.0,Seed
-2018,Virtual MetalStreet(MetalStreet),Bengaluru,"B2B, Marketplace",700000.0,Angel
+2018,Vivish Technologies (myGate),Bangalore,"Apps, Information Services, Information Technology",9490000.0,Series A
+2018,Singularity Dynamics,Bangalore,Artificial Intelligence,1300000.0,Seed
+2018,Virtual MetalStreet(MetalStreet),Bangalore,"B2B, Marketplace",700000.0,Angel
 2018,Veritas Finance,Guindy,Financial Services,30000000.0,Undisclosed
 2018,Manjushree Technopack,Bangalore,Packaging Services,1300000.0,Equity
 2018,GoZefo,Bangalore,"Computer, Furniture, Software",3066000.0,Undisclosed
 2018,Zomato,Gurgaon,"Food Delivery, Hospitality, Reservations, Restaurants, Search Engine",210000000.0,Secondary Market
 2018,Innov8 Coworking,New Delhi,"Collaboration, Communities, Coworking, Real Estate",4000000.0,Seed
 2018,RevFin,Delhi,"Accounting, Banking, Finance",1300000.0,Seed
-2018,Lavelle Networks,Bengaluru,"Cloud Computing, Enterprise Software, Network Hardware, Network Security, SaaS",292000.0,Undisclosed
-2018,Blackbuck,Bengaluru,"Information Services, Internet, Logistics, Supply Chain Management, Transportation",29632160.0,Series D
+2018,Lavelle Networks,Bangalore,"Cloud Computing, Enterprise Software, Network Hardware, Network Security, SaaS",292000.0,Undisclosed
+2018,Blackbuck,Bangalore,"Information Services, Internet, Logistics, Supply Chain Management, Transportation",29632160.0,Series D
 2018,Cardekho,Gurgaon,"Automotive, E-Commerce, Information Services",75000000.0,Series C
 2018,ElasticRun,Pune,"Delivery, Logistics, Transportation",8760000.0,Series B
 2018,Droom Technology Private Limited,Gurgaon,"Automotive, E-Commerce Platforms, Marketplace",30000000.0,Series E
@@ -461,7 +461,7 @@ Year,Company/Brand,HeadQuarter,Sector,Amount($),Stage
 2018,Spoofin,New Delhi,"Music, Social Network, Video",1300000.0,Undisclosed
 2018,Strom Motors,Mumbai,Automotive,1300000.0,Angel
 2018,PharmEasy,Mumbai,"Health Care, Pharmaceutical, Wellness",80000000.0,Series C
-2018,Licious,Bengaluru,"Delivery Service, Food and Beverage, Food Delivery",25000000.0,Series C
+2018,Licious,Bangalore,"Delivery Service, Food and Beverage, Food Delivery",25000000.0,Series C
 2018,Stanza Living,New Delhi,"Hospitality, Information Technology, Travel Accommodations",10658000.0,Undisclosed
 2018,docturnal,Hyderabad,"Biotechnology, Diabetes, Health Care",1300000.0,Seed
 2018,Bounce (Metro Bikes),Bangalore,"Autonomous Vehicles, Last Mile Transportation, Recreational Vehicles, Rental",3000000.0,Debt
@@ -474,8 +474,8 @@ Year,Company/Brand,HeadQuarter,Sector,Amount($),Stage
 2018,Avenues Payments India Pvt. Ltd.,Mumbai,Unknown,1300000.0,Corporate Round
 2018,Qbera,Bangalore,"Finance, Financial Services",2044000.0,Undisclosed
 2018,Urban Ladder,Bangalore,"E-Commerce, E-Commerce Platforms, Furniture, Home Decor, Internet",5600000.0,Debt
-2018,Planet11 eCommerce Solutions India (Avenue11),Bengaluru,Unknown,3796000.0,Corporate Round
-2018,DailyNinja,Bengaluru,"Apps, Mobile, Mobile Apps, Software",1300000.0,Series A
+2018,Planet11 eCommerce Solutions India (Avenue11),Bangalore,Unknown,3796000.0,Corporate Round
+2018,DailyNinja,Bangalore,"Apps, Mobile, Mobile Apps, Software",1300000.0,Series A
 2018,Iba Halal Care,Ahmedabad,Unknown,2190000.0,Series A
 2018,Knocksense,Lucknow,"News, Publishing, Social Media",1300000.0,Seed
 2018,Togedr,Gurgaon,Unknown,1300000.0,Undisclosed
@@ -487,7 +487,7 @@ Year,Company/Brand,HeadQuarter,Sector,Amount($),Stage
 2018,Leena AI,Gurgaon,"Artificial Intelligence, Human Resources, Information Services, Information Technology",2000000.0,Seed
 2018,Max Healthcare,New Delhi,"Health Care, Hospital, Supply Chain Management",1300000.0,Corporate Round
 2018,GoBolt,New Delhi,"Logistics, Railroad, Transportation",5840000.0,Undisclosed
-2018,GoGaga,Bangalore City,"Dating, Private Social Networking",40000.0,Non-equity Assistance
+2018,GoGaga,Bangalore,"Dating, Private Social Networking",40000.0,Non-equity Assistance
 2018,Mate Labs,Bangalore,"Artificial Intelligence, Machine Learning, PaaS",550000.0,Seed
 2018,Furlenco,Bangalore,"Consumer, Furniture, Home Decor, Home Improvement",1300000.0,Series C
 2018,Ola,Kormangala,"Apps, E-Commerce, Internet, Mobile, Ride Sharing, Transportation",50000000.0,Undisclosed
@@ -495,7 +495,7 @@ Year,Company/Brand,HeadQuarter,Sector,Amount($),Stage
 2018,CLP India Pvt. Ltd.,Mumbai,"Energy, Natural Resources",365000000.0,Equity
 2018,Xplorabox,Noida,"E-Commerce, Education, Health Care",1300000.0,Seed
 2018,Myra,Bangalore,"Apps, Health Care, Pharmaceutical",127750.0,Undisclosed
-2018,Vokal,Bengaluru,"Internet, Knowledge Management",1500000.0,Series A
+2018,Vokal,Bangalore,"Internet, Knowledge Management",1500000.0,Series A
 2018,Kissht,Mumbai,"Credit, Finance, FinTech, Lending, Sales Automation",30000000.0,Series C
 2018,Upwards Fintech,Mumbai,"Banking, Financial Services, Internet",5000000.0,Series A
 2018,Bon(Bonfleet Solutions),Pune,"Financial Services, FinTech",1138800.0,Seed
@@ -508,17 +508,17 @@ Year,Company/Brand,HeadQuarter,Sector,Amount($),Stage
 2018,Haazri,Mumbai,"Food and Beverage, Snack Food, Tea",182500.0,Seed
 2018,Connect India,New Delhi,"Delivery Service, E-Commerce, Logistics",1300000.0,Angel
 2018,Flyrobe,Mumbai,"Fashion, Lifestyle, Rental",3854400.0,Series B
-2018,Scholify,Bengaluru,Unknown,1300000.0,Pre-seed
+2018,Scholify,Bangalore,Unknown,1300000.0,Pre-seed
 2018,Dream11,Mumbai,"Fantasy Sports, Mobile, Sports",100000000.0,Series D
 2018,srJna,Jaipur,Education,1300000.0,Seed
 2018,Nykaa,Mumbai,"Beauty, Fashion, Wellness",16498000.0,Secondary Market
 2018,Chaayos,New Delhi,"Food and Beverage, Restaurants, Tea",11826000.0,Series B
 2018,Heelium,Pune,"Fitness, Sporting Goods, Sports",1300000.0,Seed
 2018,LT Foods,New Delhi,"Food and Beverage, Food Processing, Manufacturing",20440000.0,Equity
-2018,Multibashi,Bengaluru,"E-Learning, Internet",146000.0,Seed
+2018,Multibashi,Bangalore,"E-Learning, Internet",146000.0,Seed
 2018,Cleardekho,Ghaziabad,"Eyewear, Internet",1300000.0,Undisclosed
 2018,Dailyhunt,Bangalore,"Information Technology, Mobile, News, Operating Systems, Social Media, Social News",6000000.0,Series E
-2018,SlicePay,Bengaluru,"FinTech, Internet, Payments, Service Industry",14900000.0,Series A
+2018,SlicePay,Bangalore,"FinTech, Internet, Payments, Service Industry",14900000.0,Series A
 2018,Udaan,Bangalore,"B2B, Business Development, Internet, Marketplace",225000000.0,Series C
 2018,Happyeasygo Group,Haryana,"Tourism, Travel",1300000.0,Series A
 2018,Mombay,Mumbai,"Food and Beverage, Food Delivery, Internet",7500.0,Seed
