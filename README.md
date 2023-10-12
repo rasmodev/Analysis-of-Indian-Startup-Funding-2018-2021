@@ -9,11 +9,17 @@ This repository contains the analysis of the Indian startup ecosystem to provide
 
 ## Questions
 The analysis set out to answer the following questions:
+
 Question 1: What is the trend in start-up funding in India over the years?
+
 Question 2: What are the most common funding stages among Indian start-ups?
+
 Question 3: Average funding amount for a seed-stage investment in India over the years
+
 Question 4: Which sector has the highest average funding amount?
+
 Question 5: Which start-up headquarter locations received the highest amount of funding?
+
 Question 6: Which headquarter location has the highest number of startups?
 
 # Methodology
